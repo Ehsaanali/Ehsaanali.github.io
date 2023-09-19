@@ -4,11 +4,11 @@
 
 ## Education
 					       		
-- M.S., Artificial intelligence	| FAST NUCES Islamabad (_December 2023_)	 			        		
-- B.S., software engineering  | szabist islamabad (_May 2021_)
+- M.S.,Artificial Intelligence | FAST NUCES Islamabad(_December 2023_)	 			        		
+- B.S.,Software Engineering  | Szabist Islamabad (May 2017 to May 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
