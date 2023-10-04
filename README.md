@@ -1,6 +1,6 @@
 # ML Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Machine learning, Deep Learning, Image processing, MATLAB
 
 ## Education
 					       		
