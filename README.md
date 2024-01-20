@@ -5,7 +5,7 @@ PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://ww
 
   Python Microsoft Certified programmer  [Check Certificate](https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY)
   
-CV ([Link]](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Final%20Ehsaan%20CV.pdf/)) 
+CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Final%20Ehsaan%20CV.pdf/)/ 
 
 
 ## Education
