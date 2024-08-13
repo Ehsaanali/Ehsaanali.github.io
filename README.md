@@ -14,8 +14,8 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Final%20Ehs
 - B.S.,Software Engineering  | Szabist Islamabad (May 2017 to May 2021_)
 
 ## Work Experience
-**Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
-**Machine learning and Data Science expert @ upwork**
+- **Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
+- **Machine learning and Data Science expert @ upwork**
 ## Internships
 - PHP Laravel Internship at Macro Soar
 - Data Science and Business Analytics at Sparks Foundation
