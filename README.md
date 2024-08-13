@@ -17,24 +17,24 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Final%20Ehs
 **Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
 **Machine learning and Data Science expert @ upwork**
 ## Internships
-• PHP Laravel Internship at Macro Soar
-• Data Science and Business Analytics at Sparks Foundation
+- PHP Laravel Internship at Macro Soar
+- Data Science and Business Analytics at Sparks Foundation
 ## Projects
 ### Human Activity recognition
-• Developed a Computer vision-based Activity Recognition in COnstruction.
-• Used LSTM and CNNs
+- Developed a Computer vision-based Activity Recognition in COnstruction.
+- Used LSTM and CNNs
 ### Deepfake detection (MS thesis)
-• Developed a deep fake detection system using lighting inconsistencies in retinal
+- Developed a deep fake detection system using lighting inconsistencies in retinal
 and face movements.
-• Implemented landmark Detection.
-• used FacedSwapGAN for deep fake detection.
+- Implemented landmark Detection.
+- used FacedSwapGAN for deep fake detection.
 ### Automatic Stationary Billing System
-• Developed an AI-based Automatic Stationary billing system using YOLO.
-• Used Computer Vision algorithms along with Python programming language.
+- Developed an AI-based Automatic Stationary billing system using YOLO.
+- Used Computer Vision algorithms along with Python programming language.
 ### Image Steganography
-• Implemented the Enhancement of Encoded Cover in Multi-Image Steganography
+- Implemented the Enhancement of Encoded Cover in Multi-Image Steganography
 using Deep Learning
-• Used deep learning frameowrks.
+- Used deep learning frameowrks.
 ### Smart YouTube Video Assistant
 • Developed a Smart YouTube Video Assistant that allows users to input a YouTube
 video URL and a custom prompt, generating relevant responses in various formats
