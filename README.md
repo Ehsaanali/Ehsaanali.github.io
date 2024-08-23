@@ -54,4 +54,6 @@ related web sources, images, and YouTube videos.
 - Role : Front End Development, Backend Development, Forecasting Using Artificial
 Intelligence
 - Project [Link](https://github.com/Ehsaanali/healthcare-dashboard-using-django-FYP)
+
 ## Talks & Lectures
+- Artificial Intelligence Contribute to different Industries [Link](https://www.youtube.com/watch?v=SnQ-rqZcK2Q)
