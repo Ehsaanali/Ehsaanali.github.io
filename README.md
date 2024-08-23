@@ -10,8 +10,8 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Final%20Ehs
 
 ## Education
 					       		
-- M.S.,Artificial Intelligence | FAST NUCES Islamabad(_December 2023_)	 			        		
-- B.S.,Software Engineering  | Szabist Islamabad (May 2017 to May 2021_)
+- M.S.,Artificial Intelligence | CGPA: 3.7/4 | FAST NUCES Islamabad(_December 2023)	 			        		
+- B.S.,Software Engineering  | CGPA: 3.26/4 |Szabist Islamabad (May 2017 to May 2021)
 
 ## Work Experience
 - **Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
