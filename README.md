@@ -10,7 +10,7 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Final%20Ehs
 
 ## Education
 					       		
-- M.S.,Artificial Intelligence | CGPA: 3.7/4 | FAST NUCES Islamabad(_December 2023)	 			        		
+- M.S.,Artificial Intelligence | CGPA: 3.7/4 | FAST NUCES Islamabad(January 2022 to January 2024)	 			        		
 - B.S.,Software Engineering  | CGPA: 3.26/4 |Szabist Islamabad (May 2017 to May 2021)
 
 ## Work Experience
