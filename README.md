@@ -40,8 +40,7 @@ using Deep Learning
 video URL and a custom prompt, generating relevant responses in various formats
 (plain text, text with images, video snippets, or a video response).
 - Enhanced user experience by providing additional recommendations, including
-related web sources, images, and YouTube videos.
-[Link](https://github.com/Ehsaanali/Smart_Youtube_Video_Assistant-Video_summarization-)
+related web sources, images, and YouTube videos. [Link](https://github.com/Ehsaanali/Smart_Youtube_Video_Assistant-Video_summarization-)
 ### Dementia Classification
 - Implemented a classifier to classify dementia using a Structured Dataset
 ### Intelligent Health Monitoring System (FYP BS)
