@@ -20,9 +20,10 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Final%20Ehs
 - PHP Laravel Internship at Macro Soar
 - Data Science and Business Analytics at Sparks Foundation
 ## Projects
-### Human Activity recognition
-- Developed a Computer vision-based Activity Recognition in COnstruction.
+### Construction Activity recognition
+- Developed a Computer vision-based Activity Recognition in Construction.
 - Used LSTM and CNNs
+- Project [Link](https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning)
 ### Deepfake detection (MS thesis)
 - Developed a deep fake detection system using lighting inconsistencies in retinal
 and face movements.
@@ -52,4 +53,5 @@ related web sources, images, and YouTube videos.
 - Database : PostgreSQL
 - Role : Front End Development, Backend Development, Forecasting Using Artificial
 Intelligence
+- Project [Link](https://github.com/Ehsaanali/healthcare-dashboard-using-django-FYP)
 ## Talks & Lectures
