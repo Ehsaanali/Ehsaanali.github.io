@@ -58,3 +58,4 @@ Intelligence
 ## Talks & Lectures
 - Artificial Intelligence Contribute to different Industries [Link](https://www.youtube.com/watch?v=SnQ-rqZcK2Q)
 - Using Linear regression Prediction of student Performance [Link](https://www.youtube.com/watch?v=leNAGbIIINI)
+- On IRIS dataset predict the optimum number of cluster [Link](https://www.youtube.com/watch?v=XPzARMZ5jJY)
