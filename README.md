@@ -14,8 +14,10 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Final%20Ehs
 - B.S.,Software Engineering  | CGPA: 3.26/4 |Szabist Islamabad (May 2017 to May 2021)
 
 ## Work Experience
-- **Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
+- **Lab Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
 - **Machine learning and Data Science expert @ upwork**
+- **Research Assistant ‑ AIM Research Lab**
+- **Teaching Assistant ‑ Research Methodology**
 ## Internships
 - PHP Laravel Internship at Macro Soar
 - Data Science and Business Analytics at Sparks Foundation
