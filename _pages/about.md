@@ -34,10 +34,9 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
   <div class="column">
     <h3>Academic journey</h3>
     <ul>
-      <li>Post-doc at Oxford Institute of Biomedical Engineering, University of Oxford, UK</li>
       <li>RA and Post-doc at BioMedIA group, Imperial College London, UK</li>
       <li>PhD at BioMedIA group, Imperial College London, UK</li>
-      <li>MSc in Advanced Computing, Imperial College London, UK</li>
+      <li>M.S.,Artificial Intelligence | CGPA: 3.7/4 | FAST NUCES Islamabad(January 2022 to January 2024)	</li>
       <li>B.S. Software Engineering | CGPA: 3.26/4 |Szabist Islamabad (May 2017 to May 2021)</li>
     </ul>
   </div>
