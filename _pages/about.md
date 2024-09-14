@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chen (Cherise) Chen"
+title: "Ehsaan Ali"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
