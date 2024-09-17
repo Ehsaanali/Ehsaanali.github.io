@@ -22,9 +22,9 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
 <div class="column">
     <h3>Interests</h3>
     <ul>
-      <li>Artificial Intelligence in Healthcare (e.g., Cardiac care)</li>
+    <li>Computer Vision and Image processing</li>
       <li>Multi-modal Learning (images, signals, and language)</li>
-      <li>Computer Vision and Signal Processing</li>
+      <li>Artificial Intelligence in Healthcare </li>
       <li>Trustworthy Machine Learning (Robustness and Explainability)</li>
       <li>Data-efficient Learning</li>
       <li>Generative Modelling and Data Synthesis</li>
@@ -43,7 +43,7 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
   </div><br /><br /><br /><br /><br /><br />
 
 
-News
+<!-- News
 ----
 
 <div class="news-container">
@@ -182,7 +182,7 @@ News
    Received IEEE TMI Gold-level Distinguished Reviewer Award (2022-2023)!
   </div>
   <!-- More news items -->
-  <div class="news-item">
+  <!-- <div class="news-item">
   <div class="date"> 19/07/2023</div>
   Received one of the top 12 Outstanding Reviewer awards in MICCAI 2023!
   </div>
@@ -194,7 +194,7 @@ News
    <div class="date">17/05/2023</div>
      Invited to give a talk at NCT Data Science Seminar 2023 at the German Cancer Research Center (DKFZ)
   </div>
-</div>
+</div> --> -->
 
 Awards and honours
 ------------------
