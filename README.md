@@ -62,4 +62,5 @@ Intelligence
 - Using Linear regression Prediction of student Performance [Link](https://www.youtube.com/watch?v=leNAGbIIINI)
 - On IRIS dataset predict the optimum number of cluster [Link](https://www.youtube.com/watch?v=XPzARMZ5jJY)
 - VCS Version Control System Gitub [Link](https://www.youtube.com/watch?v=AXqlx3keGgY)
+- How to use and add reference in Overleaf latex [Link](https://www.youtube.com/watch?v=8obqbKqweV8)
 ## Articles & blogs
