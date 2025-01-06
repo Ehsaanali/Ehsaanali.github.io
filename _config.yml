@@ -11,7 +11,7 @@ title                    : "Ehsaan Ali, MSAI"
 title_separator          : "-"
 name                     : &name "Ehsaan Ali, MSAI"
 description              : &description "I am a Lab Instructor and Researcher specializing in Artificial Intelligence. He/him"
-url                      : https://rasikabh.github.io
+url                      : https://ehsaanali.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rasikabh/rasikabh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
