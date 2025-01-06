@@ -19,7 +19,7 @@ Beyond my professional pursuits, I am an avid advocate for education and love sh
 
 Feel free to reach out if you’d like to discuss AI research, teaching strategies, or collaborative opportunities!
 
-<img src="/images/Bhalerao2021.jpeg" width="200">
+<img src="/images/EhsaanAli22I-0004MSAI.jpeg" width="200">
 
 ## News
 
