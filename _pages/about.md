@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 
-Hi! I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences in Oakland! I received my PhD in computer science from NYU Tandon in 2022 under my advisor [Damon McCoy](http://damonmccoy.com). 
-My pronouns are she/her.
+Hi! I am Ehsaan Ali, a passionate AI researcher and educator. I hold a Master of Science in Artificial Intelligence from FAST NUCES Islamabad, where I graduated as a gold medalist with a CGPA of 3.7/4 in January 2024. My pronouns are he/him.
 
-At Northeastern, my areas of teaching include introductory courses (Fundamentals of Computer Science and the Align program), artificial intelligence, natural language processing, and ethical computing.
-My main research interests are cybersecurity, ethics, social bias in machine learning, and teaching ethical computing. 
-I strongly believe that the most efficient path to ethical tech is to have computer/data scientists who reflect the population that their products are designed to affect. 
-Please feel free to reach out to me to talk about teaching, ethical computing, or online harassment! 
+I served as a Lab Instructor at FAST NUCES, teaching courses like Artificial Intelligence, Data Structures, and Computing Fundamentals. I also worked as a Research Assistant at the AIM Lab, where I contributed to cutting-edge research in AI, including projects focused on deep learning, big data analytics, and multimedia forensics.
 
-Outside of teaching, I am learning Spanish and Mandarin, and I love to rock climb and meditate.
+My research interests span Deep Learning, Image Processing, Big Data Analytics, and NLP, with a focus on building scalable AI frameworks and applying AI to real-world challenges. I am particularly drawn to ethical and innovative uses of AI, striving to develop solutions that prioritize fairness and inclusivity.
+
+Beyond my professional pursuits, I am an avid advocate for education and love sharing knowledge with others. When I’m not working on AI, I enjoy exploring new programming tools, staying up-to-date with research trends, and mentoring students.
+
+Feel free to reach out if you’d like to discuss AI research, teaching strategies, or collaborative opportunities!
 
 <img src="/images/Bhalerao2021.jpeg" width="200">
 
