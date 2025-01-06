@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rasika Bhalerao, Ph.D."
+title: "Ehsaan Ali, MSAI"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
