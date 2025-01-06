@@ -13,7 +13,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### Assistant Teaching Professor at Northeastern University Khoury College of Computer Sciences
+### Lab instructor at FAST National University of Computer and Emerging Sciences, Islamabad Campus
 #### Fundamentals of Computer Science I (Undergrad) | Fall 2023, Fall 2024
 #### Fundamentals of Computer Science II (undergrad) | Spring 2024
 #### Intensive Foundations of Computer Science [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Fall 2023
