@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ehsaan Ali, MSAI"
+title                    : "Rasika Bhalerao, Ph.D."
 title_separator          : "-"
-name                     : &name "Ehsaan Ali, MSAI"
+name                     : &name "Rasika Bhalerao, Ph.D."
 description              : &description "I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences. She/her."
 url                      : https://rasikabh.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ehsaan Ali, MSAI"
+  name             : "Rasika Bhalerao, Ph.D."
   avatar           : "Bhalerao2021.jpeg"
   bio              : "I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences. She/her"
   location         : "rasikabh @ gmail.com"
