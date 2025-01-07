@@ -1,5 +1,11 @@
 # AI/ML Engineer
+## Introduction
+I am a Lab Instructor and Researcher specializing in Artificial Intelligence. He/him.
+I recently completed my Master of Science in Artificial Intelligence from FAST NUCES Islamabad, graduating as a gold medalist with a CGPA of 3.7/4. During my time at FAST NUCES, I served as a Lab Instructor, teaching courses such as Artificial Intelligence, Data Structures, and Computing Fundamentals, which allowed me to share my passion for AI with aspiring students.
 
+I also worked as a Research Assistant at the AIM Lab, contributing to projects in deep learning, image processing, and multimedia forensics. My primary research interests lie in deep learning, big data analytics, and cloud security, with a focus on developing scalable AI frameworks and innovative solutions for real-world challenges.
+
+Feel free to connect if you'd like to discuss AI research, teaching methodologies, or potential collaborations!
 #### Technical Skills: Python, Machine learning, Deep Learning, Image processing, Deepfake detection, LLM, Generative AI
 PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/
 
@@ -63,4 +69,5 @@ Intelligence
 - On IRIS dataset predict the optimum number of cluster [Link](https://www.youtube.com/watch?v=XPzARMZ5jJY)
 - VCS Version Control System Gitub [Link](https://www.youtube.com/watch?v=AXqlx3keGgY)
 - How to use and add reference in Overleaf latex [Link](https://www.youtube.com/watch?v=8obqbKqweV8)
+
 ## Articles & blogs
