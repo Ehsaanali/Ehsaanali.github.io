@@ -71,6 +71,6 @@ Intelligence
 - How to use and add reference in Overleaf latex [Link](https://www.youtube.com/watch?v=8obqbKqweV8)
 
 ## Awards
-Award of IGNITE NGIRI grant to FYPs 2020-21
-Gold Medalist MSAI Degree (Issued by National University of Computer & Emerging Sciences)
+- Award of IGNITE NGIRI grant to FYPs 2020-21
+- Gold Medalist MSAI Degree (Issued by National University of Computer & Emerging Sciences)
 ## Articles & blogs
