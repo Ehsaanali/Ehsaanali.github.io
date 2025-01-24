@@ -84,5 +84,5 @@ Intelligence
 - Gold Medalist MSAI Degree (Issued by National University of Computer & Emerging Sciences)
 
 ## Articles & Research Reports
-Construction Activity Recognition-using deep learning [Link](https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1)
-
+- Construction Activity Recognition-using deep learning [Link](https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1)
+- Critical Review on Paper Titled: “Depression detection from & social network data using machine learning techniques” [Link](https://medium.com/@ehsaanalinagyal/critical-review-on-paper-titled-depression-detection-from-social-network-data-using-machine-7ea5d8bc5c90)
