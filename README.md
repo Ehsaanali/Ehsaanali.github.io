@@ -74,10 +74,17 @@ Intelligence
 - Construction Activity Recognition [Link](https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning/tree/main/Custom%20Dataset)  
 ## Talks & Lectures
 - Artificial Intelligence Contribute to different Industries [Link](https://www.youtube.com/watch?v=SnQ-rqZcK2Q)
+- Real-Time Facial Expression Detection using Mediapipe and OpenCV [Link](https://www.youtube.com/watch?v=1RVmdhWR66E)
+- Deepfake Generation using Avatarify Desktop [Link](https://www.youtube.com/watch?v=hnF_IUWHqzY)
+- Exploring gaze tracking with the GazeTracking library [Link](https://www.youtube.com/watch?v=ojcCYVvzJtw)
+- Facial Emotion Recognition mediapipe, Tensorflow,OpenCV [Link](https://www.youtube.com/watch?v=asZcdBcN0Jk)
+- PoseTrack Real Time Body and Hand Motion Capture [Link](https://www.youtube.com/watch?v=GFc34CrfA-U)
+- Mask RCNN Object Segmentation [Link](https://www.youtube.com/watch?v=fO5K0uc5zww)
 - Using Linear regression Prediction of student Performance [Link](https://www.youtube.com/watch?v=leNAGbIIINI)
 - On IRIS dataset predict the optimum number of cluster [Link](https://www.youtube.com/watch?v=XPzARMZ5jJY)
 - VCS Version Control System Gitub [Link](https://www.youtube.com/watch?v=AXqlx3keGgY)
 - How to use and add reference in Overleaf latex [Link](https://www.youtube.com/watch?v=8obqbKqweV8)
+
 
 ## Awards
 - Award of IGNITE NGIRI grant to FYPs 2020-21
