@@ -11,7 +11,7 @@ PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://ww
 
   Python Microsoft Certified programmer  [Check Certificate](https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY)
   
-CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Final%20Ehsaan%20CV.pdf/)
+CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_CV.pdf/)
 
 
 ## Education
@@ -62,7 +62,9 @@ related web sources, images, and YouTube videos.
 - Role : Front End Development, Backend Development, Forecasting Using Artificial
 Intelligence
 - Project [Link](https://github.com/Ehsaanali/healthcare-dashboard-using-django-FYP)
-
+## Dataset Contribution
+-
+-
 ## Talks & Lectures
 - Artificial Intelligence Contribute to different Industries [Link](https://www.youtube.com/watch?v=SnQ-rqZcK2Q)
 - Using Linear regression Prediction of student Performance [Link](https://www.youtube.com/watch?v=leNAGbIIINI)
@@ -73,4 +75,5 @@ Intelligence
 ## Awards
 - Award of IGNITE NGIRI grant to FYPs 2020-21
 - Gold Medalist MSAI Degree (Issued by National University of Computer & Emerging Sciences)
-## Articles & blogs
+
+## Articles & Research Reports
