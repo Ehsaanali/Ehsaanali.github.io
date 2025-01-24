@@ -7,12 +7,8 @@ I also worked as a Research Assistant at the AIM Lab, contributing to projects i
 
 Feel free to connect if you'd like to discuss AI research, teaching methodologies, or potential collaborations!
 #### Technical Skills: Python, Machine learning, Deep Learning, Image processing, Deepfake detection, LLM, Generative AI
-PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/
-
-  Python Microsoft Certified programmer  [Check Certificate](https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY)
   
 CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_CV.pdf/)
-
 
 ## Education
 					       		
@@ -64,6 +60,12 @@ related web sources, images, and YouTube videos.
 - Role : Front End Development, Backend Development, Forecasting Using Artificial
 Intelligence
 - Project [Link](https://github.com/Ehsaanali/healthcare-dashboard-using-django-FYP)
+
+## Certificate
+PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/
+Python Microsoft Certified programmer  [Check Certificate](https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY)
+Generative AI for Everyone  [Check Certificate](https://www.coursera.org/account/accomplishments/certificate/TEAROE8E9ZWY/)/
+  
 ## Dataset Contribution
 -
 -
