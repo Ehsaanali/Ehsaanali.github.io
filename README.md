@@ -95,4 +95,5 @@ Intelligence
 
 ## Articles & Research Reports
 - Construction Activity Recognition-using deep learning [Link](https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1)
+- HealthCare Dashboard Design Using Python Django and HightChart API [Link](https://medium.com/@ehsaanalinagyal/healthcare-dashboard-design-using-python-django-and-hightchart-api-9fe5d2fc5063)
 - Critical Review on Paper Titled: “Depression detection from & social network data using machine learning techniques” [Link](https://medium.com/@ehsaanalinagyal/critical-review-on-paper-titled-depression-detection-from-social-network-data-using-machine-7ea5d8bc5c90)
