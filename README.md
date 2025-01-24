@@ -7,6 +7,7 @@ I also worked as a Research Assistant at the AIM Lab, contributing to projects i
 
 Feel free to connect if you'd like to discuss AI research, teaching methodologies, or potential collaborations!
 #### Technical Skills: Python, Machine learning, Deep Learning, Image processing, Deepfake detection, LLM, Generative AI
+#### Tool/libraries: SQL, Django, Tensorflow, PyTorch, OpenCV, C, C++, NLTK
   
 CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_CV.pdf/)
 
