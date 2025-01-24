@@ -84,3 +84,5 @@ Intelligence
 - Gold Medalist MSAI Degree (Issued by National University of Computer & Emerging Sciences)
 
 ## Articles & Research Reports
+Construction Activity Recognition-using deep learning [Link](https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1)
+
