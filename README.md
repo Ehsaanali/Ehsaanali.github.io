@@ -21,6 +21,8 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_
 
 ## Work Experience
 - **Lab Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
+- conducted Lab such as Artificial Intelligence, Data Mining, Data structures and Fundamental of Computing
+- **Lab Instructor (Visiting), Lab SZABIST Islamabad**
 - **Machine learning and Data Science expert @ upwork**
 - **Research Assistant ‑ AIM Research Lab**
 - **Teaching Assistant ‑ Research Methodology**
