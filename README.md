@@ -23,9 +23,11 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_
 - **Machine learning and Data Science expert @ upwork**
 - **Research Assistant ‑ AIM Research Lab**
 - **Teaching Assistant ‑ Research Methodology**
+
 ## Internships
 - PHP Laravel Internship at Macro Soar
 - Data Science and Business Analytics at Sparks Foundation
+
 ## Projects
 ### Construction Activity recognition
 - Developed a Computer vision-based Activity Recognition in Construction.
@@ -72,6 +74,7 @@ Intelligence
 ## Dataset Contribution
 - AI-Based Automatic Stationery Billing System [Link](https://www.kaggle.com/datasets/ehsaanali/stationerydataset)  
 - Construction Activity Recognition [Link](https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning/tree/main/Custom%20Dataset)  
+
 ## Talks & Lectures
 - Artificial Intelligence Contribute to different Industries [Link](https://www.youtube.com/watch?v=SnQ-rqZcK2Q)
 - Real-Time Facial Expression Detection using Mediapipe and OpenCV [Link](https://www.youtube.com/watch?v=1RVmdhWR66E)
