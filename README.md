@@ -66,6 +66,7 @@ Intelligence
 - Python Microsoft Certified programmer  [Check Certificate](https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY)/
 - Generative AI for Everyone  [Check Certificate](https://www.coursera.org/account/accomplishments/certificate/TEAROE8E9ZWY/)/
 - Introduction to Large Language Models [Check Certificate](https://www.coursera.org/account/accomplishments/verify/BEYXLZZ5Y9H7/)/
+- AI For Everyone [Check Certificate](https://www.linkedin.com/in/ehsaan-ali-nagyal1/details/certifications/1732606014703/single-media-viewer/?profileId=ACoAAFUuKS8BhmwMWiXp9073ODZGa35w9iBopYI/)/
   
 ## Dataset Contribution
 -
