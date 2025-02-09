@@ -68,6 +68,7 @@ Intelligence
 - PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/
 - Python Microsoft Certified programmer  [Check Certificate](https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY)/
 - Computer Vision and Image Processing Essentials [Check Certificate](https://www.credly.com/badges/677682ae-1b24-4d9a-ad53-71d2f2c35368/linked_in_profile)/
+- AI for Medical Diagnosis [Check Certificate](https://coursera.org/share/9c6a63f4ed1046df6c269631e6abff28)/
 - Generative AI for Everyone  [Check Certificate](https://www.coursera.org/account/accomplishments/certificate/TEAROE8E9ZWY/)/
 - Introduction to Large Language Models [Check Certificate](https://www.coursera.org/account/accomplishments/verify/BEYXLZZ5Y9H7/)/
 - AI For Everyone [Check Certificate](https://www.linkedin.com/in/ehsaan-ali-nagyal1/details/certifications/1732606014703/single-media-viewer/?profileId=ACoAAFUuKS8BhmwMWiXp9073ODZGa35w9iBopYI/)/
@@ -78,6 +79,7 @@ Intelligence
 
 ## Talks & Lectures
 - Artificial Intelligence Contribute to different Industries [Link](https://www.youtube.com/watch?v=SnQ-rqZcK2Q)
+- Eye Gesture Recognition Using Mediapipe [Link](https://www.youtube.com/watch?v=GdyYdTQ4iD0)
 - Real-Time Facial Expression Detection using Mediapipe and OpenCV [Link](https://www.youtube.com/watch?v=1RVmdhWR66E)
 - Deepfake Generation using Avatarify Desktop [Link](https://www.youtube.com/watch?v=hnF_IUWHqzY)
 - Exploring gaze tracking with the GazeTracking library [Link](https://www.youtube.com/watch?v=ojcCYVvzJtw)
