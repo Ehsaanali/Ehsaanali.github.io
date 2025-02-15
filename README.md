@@ -78,6 +78,7 @@ Intelligence
 - Construction Activity Recognition [Link](https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning/tree/main/Custom%20Dataset)  
 
 ## Talks & Lectures
+- SCRUM Framework [Link](https://www.youtube.com/watch?v=9YsZnKz5sCw)
 - Artificial Intelligence Contribute to different Industries [Link](https://www.youtube.com/watch?v=SnQ-rqZcK2Q)
 - Eye Gesture Recognition Using Mediapipe [Link](https://www.youtube.com/watch?v=GdyYdTQ4iD0)
 - Real-Time Facial Expression Detection using Mediapipe and OpenCV [Link](https://www.youtube.com/watch?v=1RVmdhWR66E)
