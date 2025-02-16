@@ -67,7 +67,7 @@ Intelligence
 ### Other Projects
 - Content-Based Image Retrieval, Font Identification,  Exam schedule generator using genetic algorithm, Facial emotion recognition, Dementia Classification
 
-## Certificate
+## Online Certificate
 - PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/
 - Python Microsoft Certified programmer  [Check Certificate](https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY)/
 - Computer Vision and Image Processing Essentials [Check Certificate](https://www.credly.com/badges/677682ae-1b24-4d9a-ad53-71d2f2c35368/linked_in_profile)/
