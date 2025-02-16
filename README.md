@@ -9,7 +9,7 @@ Feel free to connect if you'd like to discuss AI research, teaching methodologie
 #### Technical Skills: Python, Machine learning, Deep Learning, Image processing, Deepfake detection, LLM, Generative AI
 #### Tool/libraries: SQL, Django, Tensorflow, PyTorch, OpenCV, C, C++, NLTK
   
-CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_CV.pdf/)
+CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_CV.pdf/) Linkedin [Link](https://www.linkedin.com/in/ehsaan-ali-nagyal1/) 
 
 ## Education
 					       		
