@@ -102,5 +102,5 @@ Intelligence
 
 ## Articles & Research Reports
 - Construction Activity Recognition-using deep learning [Link](https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1)
--“Intelligent Health Monitoring System Using Deep Learning : Ehsaan Ali, Daim Attiq : Free Download, Borrow, and Streaming : Internet Archive,” Internet Archive, 2025. [Link](https://archive.org/details/intelligent-health-monitoring-system-using-deep-learning)  (accessed Feb. 16, 2025).
+- “Intelligent Health Monitoring System Using Deep Learning : Ehsaan Ali, Daim Attiq : Free Download, Borrow, and Streaming : Internet Archive,” Internet Archive, 2025. [Link](https://archive.org/details/intelligent-health-monitoring-system-using-deep-learning)  (accessed Feb. 16, 2025).
 - Critical Review on Paper Titled: “Depression detection from & social network data using machine learning techniques” [Link](https://medium.com/@ehsaanalinagyal/critical-review-on-paper-titled-depression-detection-from-social-network-data-using-machine-7ea5d8bc5c90)
