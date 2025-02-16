@@ -18,7 +18,7 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_
 
 ## Work Experience
 - **Lecturer @FAST-NUCES, Islamabad Campus (_jab 2025 - Present_)**
-- Conducted Fundamentals of Software Engineering 
+- Teaching Fundamentals of Software Engineering Course
 - **Lab Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
 - Conducted Lab such as Artificial Intelligence, Data Mining, Data structures and Fundamental of Computing
 - **Lab Instructor (Visiting), Lab SZABIST Islamabad**
