@@ -17,6 +17,7 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_
 - B.S.,Software Engineering  | CGPA: 3.26/4 |Szabist Islamabad (May 2017 to May 2021)
 
 ## Work Experience
+- **Lecturer @FAST-NUCES, Islamabad Campus (_jab 2025 - Present_)**
 - **Lab Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
 - conducted Lab such as Artificial Intelligence, Data Mining, Data structures and Fundamental of Computing
 - **Lab Instructor (Visiting), Lab SZABIST Islamabad**
@@ -29,7 +30,7 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_
 - Data Science and Business Analytics at Sparks Foundation
 
 ## Projects
-### Construction Activity recognition
+### CNN-LSTM-based activity detection system for construction sites
 - Developed a Computer vision-based Activity Recognition in Construction.
 - Used LSTM and CNNs
 - Project [Link](https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning)
@@ -38,7 +39,7 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_
 and face movements.
 - Implemented landmark Detection.
 - used FacedSwapGAN for deep fake detection.
-### Automatic Stationary Billing System
+### camera-image based automated stationery calculator using the YOLOv5 algorithm
 - Developed an AI-based Automatic Stationary billing system using YOLO.
 - Used Computer Vision algorithms along with Python programming language.
 ### Image Steganography
@@ -52,8 +53,7 @@ video URL and a custom prompt, generating relevant responses in various formats
 - Enhanced user experience by providing additional recommendations, including
 related web sources, images, and YouTube videos.
 - Project [Link](https://github.com/Ehsaanali/Smart_Youtube_Video_Assistant-Video_summarization-)
-### Dementia Classification
-- Implemented a classifier to classify dementia using a Structured Dataset
+
 ### Intelligent Health Monitoring System (FYP BS)
 - Implemented an intelligent Health Monitor System as a final-year project.
 - Framework : Django python
@@ -63,6 +63,8 @@ related web sources, images, and YouTube videos.
 - Role : Front End Development, Backend Development, Forecasting Using Artificial
 Intelligence
 - Project [Link](https://github.com/Ehsaanali/healthcare-dashboard-using-django-FYP)
+### Other Projects
+- Content-Based Image Retrieval, Font Identification,  Exam schedule generator using genetic algorithm, Facial emotion recognition, Dementia Classification
 
 ## Certificate
 - PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/
@@ -99,5 +101,5 @@ Intelligence
 
 ## Articles & Research Reports
 - Construction Activity Recognition-using deep learning [Link](https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1)
-- HealthCare Dashboard Design Using Python Django and HightChart API [Link](https://medium.com/@ehsaanalinagyal/healthcare-dashboard-design-using-python-django-and-hightchart-api-9fe5d2fc5063)
+-“Intelligent Health Monitoring System Using Deep Learning : Ehsaan Ali, Daim Attiq : Free Download, Borrow, and Streaming : Internet Archive,” Internet Archive, 2025. [Link](https://archive.org/details/intelligent-health-monitoring-system-using-deep-learning)  (accessed Feb. 16, 2025).
 - Critical Review on Paper Titled: “Depression detection from & social network data using machine learning techniques” [Link](https://medium.com/@ehsaanalinagyal/critical-review-on-paper-titled-depression-detection-from-social-network-data-using-machine-7ea5d8bc5c90)
