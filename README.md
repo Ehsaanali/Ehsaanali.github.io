@@ -17,7 +17,7 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_
 - B.S.,Software Engineering  | CGPA: 3.26/4 |Szabist Islamabad (May 2017 to May 2021)
 
 ## Work Experience
-- **Lecturer @FAST-NUCES, Islamabad Campus (_jab 2025 - Present_)**
+- **Lecturer @FAST-NUCES, Islamabad Campus (_jan 2025 - Present_)**
 - Teaching Fundamentals of Software Engineering Course
 - **Lab Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
 - Conducted Lab such as Artificial Intelligence, Data Mining, Data structures and Fundamental of Computing
