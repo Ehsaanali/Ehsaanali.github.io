@@ -15,13 +15,14 @@ CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_
 
 ## Education
 					       		
+- Phd.,Artificial Intelligence and Electrical Engineering | Université de Bretagne Occidentale (Oct 2025 to Oct 2028)
 - M.S.,Artificial Intelligence | CGPA: 3.7/4 | FAST NUCES Islamabad(January 2022 to January 2024)	 			        		
 - B.S.,Software Engineering  | CGPA: 3.26/4 |Szabist Islamabad (May 2017 to May 2021)
 
 ## Work Experience
-- **Lecturer @FAST-NUCES, Islamabad Campus (_jan 2025 - Present_)**
+- **Lecturer @FAST-NUCES, Islamabad Campus (_jan 2025 - june 2024_)**
 - Teaching Fundamentals of Software Engineering Course
-- **Lab Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - Present_)**
+- **Lab Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - june 2024_)**
 - Conducted Lab such as Artificial Intelligence, Data Mining, Data structures and Fundamental of Computing
 - **Lab Instructor (Visiting), Lab SZABIST Islamabad**
 - **Machine learning and Data Science expert @ upwork**
