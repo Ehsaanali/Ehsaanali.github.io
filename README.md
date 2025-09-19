@@ -102,6 +102,7 @@ Intelligence
 ## Awards
 - Award of IGNITE NGIRI grant to FYPs 2020-21
 - Gold Medalist MSAI Degree (Issued by National University of Computer & Emerging Sciences)
+- Fully Funded PhD Scholarship – October 2025, in association with Université de Bretagne Occidentale
 
 ## Articles & Research Reports
 - Construction Activity Recognition-using deep learning [Link](https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1)
