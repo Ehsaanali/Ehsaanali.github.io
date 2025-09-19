@@ -1,11 +1,13 @@
 # AI/ML Engineer
 ## Introduction
-I am a Lab Instructor and Researcher specializing in Artificial Intelligence. He/him.
-I recently completed my Master of Science in Artificial Intelligence from FAST NUCES Islamabad, graduating as a gold medalist with a CGPA of 3.7/4. During my time at FAST NUCES, I served as a Lab Instructor, teaching courses such as Artificial Intelligence, Data Mining, Data Structures, and Computing Fundamentals, which allowed me to share my passion for AI with aspiring students.
+I am a Ph.D. Scholar at IRDL, CNRS UMR 6027, France, where I’m researching AI-driven Digital Twin systems for failure diagnosis and predictive maintenance in tidal energy turbines. My current work focuses on integrating machine learning, signal processing, and computer vision to improve energy efficiency and enable intelligent monitoring solutions in renewable marine systems.
 
-I also worked as a Research Assistant at the AIM Lab, contributing to projects in deep learning, image processing, and multimedia forensics. My primary research interests lie in deep learning, big data analytics, and cloud security, with a focus on developing scalable AI frameworks and innovative solutions for real-world challenges.
+I hold a Master’s degree in Artificial Intelligence (CGPA 3.7/4) from FAST NUCES Islamabad and a Bachelor’s in Software Engineering from SZABIST Islamabad. During my master’s, I explored areas such as deep learning, advanced machine learning, big data, AI mathematics, and image processing. My thesis focused on deepfake detection using lighting inconsistencies in retinal and facial movements, blending computer vision with multimedia forensics.
 
-Feel free to connect if you'd like to discuss AI research, teaching methodologies, or potential collaborations!
+Technically, I am a PIAIC Certified Artificial Intelligence Developer and a Microsoft Certified Python Expert, with hands-on expertise in TensorFlow, PyTorch, Keras, NumPy, Pandas, and Scikit-Learn.
+
+I am passionate about bridging research with real-world applications, especially in renewable energy, AI, and intelligent systems. Through innovation and collaboration, I aspire to contribute solutions that are sustainable, scalable, and human-centered.
+
 #### Technical Skills: Python, Machine learning, Deep Learning, Image processing, Deepfake detection, LLM, Generative AI
 #### Tool/libraries: SQL, Django, Tensorflow, PyTorch, OpenCV, C, C++, NLTK
   
