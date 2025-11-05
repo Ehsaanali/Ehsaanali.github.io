@@ -1,4 +1,5 @@
 # AI/ML Engineer
+# email: ehsaanalinagyal@gmail.com
 ## Introduction
 I am a Ph.D. Scholar at IRDL, CNRS UMR 6027, France, where I’m researching AI-driven Digital Twin systems for failure diagnosis and predictive maintenance in tidal energy turbines. My current work focuses on integrating machine learning, signal processing, and computer vision to improve energy efficiency and enable intelligent monitoring solutions in renewable marine systems.
 
