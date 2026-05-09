@@ -7,10 +7,14 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/Circle Cropped Profile Picture.png "Profile Picture"){:.profile}
 
-## Rehmat Ali
+## Ehsaan Ali
 
-I am an engineer and researcher currently completing my Master 2 in [Embedded Technologies and Artificial Intelligence (ETAI)](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/embedded-technologies-and-artificial-intelligence-masters-degreee-etai) at [Nantes Université (University of Nantes)](https://www.univ-nantes.fr/), France.
+# AI/ML Engineer
+# email: ehsaanalinagyal@gmail.com
+I am a Ph.D. Scholar at IRDL, CNRS UMR 6027, France, where I’m researching AI-driven Digital Twin systems for failure diagnosis and predictive maintenance in tidal energy turbines. My current work focuses on integrating machine learning, signal processing, and computer vision to improve energy efficiency and enable intelligent monitoring solutions in renewable marine systems.
 
-My technical focus lies at the cutting edge of Electronic Design Automation (EDA), specifically leveraging Machine Learning to solve complex challenges in FPGA and VLSI design. My recent research involves developing adversarial attack frameworks to test the robustness of AI tools within the semiconductor industry, alongside optimizing congestion and crosstalk noise prediction.
+I hold a Master’s degree in Artificial Intelligence (CGPA 3.7/4) from FAST NUCES Islamabad and a Bachelor’s in Software Engineering from SZABIST Islamabad. During my master’s, I explored areas such as deep learning, advanced machine learning, big data, AI mathematics, and image processing. My thesis focused on deepfake detection using lighting inconsistencies in retinal and facial movements, blending computer vision with multimedia forensics.
 
-Beyond academia, I am an experienced software developer and consultant. I specialize in architecting custom logic and data models for logistics and business management systems, ensuring that even the most intricate technical infrastructures remain robust, scalable, and reliable.
+Technically, I am a PIAIC Certified Artificial Intelligence Developer and a Microsoft Certified Python Expert, with hands-on expertise in TensorFlow, PyTorch, Keras, NumPy, Pandas, and Scikit-Learn.
+
+I am passionate about bridging research with real-world applications, especially in renewable energy, AI, and intelligent systems. Through innovation and collaboration, I aspire to contribute solutions that are sustainable, scalable, and human-centered.
