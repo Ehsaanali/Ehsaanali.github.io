@@ -12,7 +12,7 @@ nav_order: 2
 
 <p>
   <a 
-    href="https://raw.githubusercontent.com/Rehmatali-cv/Rehmatali-cv.github.io/main/assets/Rehmat%20Ali%20CV.pdf" 
+    href="https://raw.githubusercontent.com/Ehsaanali/Ehsaanali.github.io/main/assets/Ehsaan_Ali_CV.pdf" 
     target="_blank"
     style="
       display: inline-block;
@@ -31,24 +31,34 @@ nav_order: 2
 
 <hr>
 
+<h3>Summary</h3>
+<p>
+  AI/ML Engineer and PhD candidate in Artificial Intelligence & Electrical Engineering at Université de Bretagne Occidentale. Experienced in computer vision, deepfake detection, and image analysis, with expertise in Python, TensorFlow, PyTorch, and YOLOv8. Currently working on the TWIST Project – AI-based Digital Twin for diagnosing and predicting tidal turbine failures.
+</p>
+
+<hr>
+
 <h3>Education</h3>
 <ul>
   <li>
-    (<em>09/2025-08/2026</em>) 
-    <b>Master's in Embedded Technologies and Artificial Intelligence</b>, 
-    <i>Nantes Université / Polytech Nantes, Nantes, France</i>.
-    Focus: integration of advanced AI algorithms into embedded systems, combining hardware design, 
-    software engineering, and machine learning for intelligent, efficient, autonomous, and real-time 
-    low-power devices.
+    (<em>10/2025-10/2028</em>) 
+    <b>Doctor of Philosophy (Artificial Intelligence and Electrical Engineering)</b>, 
+    <i>Université de Bretagne Occidentale, Brest, France</i>.
+    Focus: TWIST Project – AI-based Digital Twin Technology for the diagnosis and prognosis of tidal turbine failures and biofouling.
+  </li>
+
+  <li>
+    (<em>01/2022-01/2024</em>) 
+    <b>Master of Science in Artificial Intelligence</b>, 
+    <i>FAST NUCES, Islamabad, Pakistan</i>.
+    GPA: 3.7/4.0 (Gold Medalist). Coursework: Deep Learning, Image Processing, and Machine Learning.
   </li>
 
   <li>
     (<em>09/2017-07/2021</em>) 
     <b>Bachelor of Science in Software Engineering</b>, 
     <i>SZABIST, Islamabad, Pakistan</i>.
-    GPA: 3.16/4.0. Major coursework included Data Science, Digital Image Processing, Artificial 
-    Intelligence, Software Engineering, Object-Oriented Programming, Software Architecture & Design, 
-    and Visual Programming.
+    GPA: 3.26/4.0.
   </li>
 </ul>
 
@@ -56,72 +66,57 @@ nav_order: 2
 
 <h3>Professional Experience</h3>
 
-<h4>ERPHUB</h4>
-<i>Cleveland, USA / Onsite: Islamabad</i><br>
-<b>ERP Solution Developer</b> (<em>01/2023-08/2025</em>)
+<h4>FAST NUCES</h4>
+<i>Islamabad, Pakistan</i><br>
+<b>Lab Instructor & Visiting Lecturer</b> (<em>09/2023-Present</em>)
 <ul>
-  <li>Designed custom applications and automated workflows using Zoho Creator and Deluge scripting.</li>
-  <li>Developed and optimized business processes across Zoho CRM, Zoho Books, Zoho People, and Zoho Desk.</li>
-  <li>Built interactive dashboards and data visualizations using Zoho Analytics.</li>
-  <li>Integrated Zoho applications with external platforms using REST APIs, webhooks, and custom functions.</li>
-  <li>Implemented AI-based solutions within the Zoho ecosystem, including predictive lead scoring, smart automation flows, customer-support chatbots, and AI-powered business forecasting analytics.</li>
-  <li>Supported scalable, data-driven applications aligned with business goals and client requirements.</li>
+  <li>Conducted labs for Artificial Intelligence, Data Mining, and Data Structures.</li>
+  <li>Developed course materials including lab manuals, assignments, and exams.</li>
+  <li>Researcher at AIM Research Lab, supervising interns on AI applications.</li>
 </ul>
 
-<h4>FairchanceforCRM</h4>
-<i>Lahore, Pakistan</i><br>
-<b>Zoho Developer</b> (<em>08/2021-12/2022</em>)
+<h4>Freelance</h4>
+<i>Remote (Fiverr & Upwork)</i><br>
+<b>AI & Data Science Specialist</b> (<em>12/2019-02/2024</em>)
 <ul>
-  <li>Held regular meetings with clients to gather and analyze business requirements for Zoho-based solutions.</li>
-  <li>Planned and implemented customized workflows across Zoho applications to streamline business processes.</li>
-  <li>Designed and developed custom workflows and functions to automate repetitive tasks and improve CRM efficiency.</li>
-  <li>Developed and trained a SalesIQ chatbot to handle multiple customer scenarios, trigger actions, and provide contextual responses.</li>
+  <li>Delivered high-quality data annotation and preprocessing services for ML pipelines.</li>
+  <li>Designed interactive dashboards using Tableau for data visualization.</li>
+  <li>Developed custom WordPress websites and executed various UI/UX design projects.</li>
 </ul>
 
 <hr>
 
 <h3>Projects</h3>
 
-<h4>Deep Learning-Based Framework for Colorectal Polyp Classification</h4>
+<h4>DeepFake Detection (MS Thesis)</h4>
 <ul>
-  <li>Developed an AI-powered diagnostic system for early detection of colorectal cancer using colonoscopy images.</li>
-  <li>Used Convolutional Neural Networks (CNNs) to classify intestinal polyps as adenomatous or hyperplastic.</li>
-  <li>Achieved 94% classification accuracy.</li>
-  <li>Built a web-based platform with doctor and patient modules for uploading colonoscopy images and generating classification reports.</li>
-  <li>Followed the Spiral Model of SDLC for iterative development and risk management.</li>
+  <li>Developed a detection system using lighting inconsistencies in retinal and face movements.</li>
+  <li>Implemented landmark detection and utilized FaceSwapGAN architectures.</li>
 </ul>
 
-<h4>Voice-Controlled Home Automation Using Arduino</h4>
+<h4>Smart YouTube Video Assistant</h4>
 <ul>
-  <li>Designed a home automation system to control electronic devices through voice commands.</li>
-  <li>Programmed an Arduino board in C++ to act as the central controller.</li>
-  <li>Used a mobile application to capture voice commands such as “turn on” and “turn off.”</li>
-  <li>Transmitted commands wirelessly to the Arduino using a Bluetooth module.</li>
-  <li>Demonstrated a proof-of-concept for controlling household lights and appliances.</li>
+  <li>Built a RAG-based assistant allowing users to query YouTube videos via custom prompts.</li>
+  <li>Generated multi-modal responses including text, images, and video snippets.</li>
 </ul>
 
 <hr>
 
 <h3>Technical Skills</h3>
 
-<h4>Programming Languages</h4>
+<h4>AI & Machine Learning</h4>
 <ul>
-  <li>Python, PHP, SQL, C, C++, JavaScript, Deluge</li>
+  <li>TensorFlow, PyTorch, YOLOv8, Scikit-learn, NLTK, OpenCV, MediaPipe</li>
 </ul>
 
-<h4>Front-End Development</h4>
+<h4>Programming & Web</h4>
 <ul>
-  <li>HTML, CSS, JavaScript, Bootstrap, jQuery</li>
+  <li>Python, PHP, C++, SQL, HTML5, CSS, JavaScript, Django</li>
 </ul>
 
-<h4>Frameworks and Tools</h4>
+<h4>Tools</h4>
 <ul>
-  <li>TensorFlow, Jupyter Notebook, Google Colab, Overleaf</li>
-</ul>
-
-<h4>ERP and Business Automation</h4>
-<ul>
-  <li>Zoho Creator, Zoho CRM, Zoho Books, Zoho People, Zoho Desk, Zoho Analytics, SalesIQ</li>
+  <li>Git, Jupyter Notebook, Google Colab, Overleaf, Tableau</li>
 </ul>
 
 <hr>
@@ -137,19 +132,17 @@ nav_order: 2
 
 <h3>References</h3>
 
-<h4>Pascal CHARGE</h4>
+<h4>Dr. Mohamed Benbouzid</h4>
 <p>
-  Program Director<br>
-  Department of Electronics and Digital Technologies<br>
-  Polytech Nantes, France<br>
-  Email: <a href="mailto:Pascal.Charge@univ-nantes.fr">Pascal.Charge@univ-nantes.fr</a>
+  Full Professor<br>
+  Department of Electrical Engineering<br>
+  University of Brest, France<br>
+  Email: <a href="mailto:Mohamed.Benbouzid@univ-brest.fr">Mohamed.Benbouzid@univ-brest.fr</a>
 </p>
 
-<h4>Sebastien PILLEMENT</h4>
+<h4>Dr. Youcef Belkhier</h4>
 <p>
-  Lecturer-Researcher<br>
-  Department of Electronics and Digital Technologies<br>
-  Polytech Nantes, France<br>
-  Email: <a href="mailto:Sebastien.Pillement@univ-nantes.fr">Sebastien.Pillement@univ-nantes.fr</a><br>
-  Website: <a href="http://pillement.polytech.univ-nantes.fr/" target="_blank">pillement.polytech.univ-nantes.fr</a>
+  Associate Professor<br>
+  University of Brest, France<br>
+  Email: <a href="mailto:youcef.belkhier@univ-brest.fr">youcef.belkhier@univ-brest.fr</a>
 </p>
