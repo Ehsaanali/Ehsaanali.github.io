@@ -7,28 +7,49 @@ nav_order: 4
 ---
 
 <p>
-  My current research focuses on applying Artificial Intelligence and Machine Learning 
-  to FPGA benchmarking, Electronic Design Automation, and embedded systems.
+  My research focuses on the intersection of Artificial Intelligence, Computer Vision, and Electrical Engineering, with a primary emphasis on Digital Twin technology for marine renewable energy and industrial fault detection.
 </p>
 
 <hr>
 
-<h3>Current Research Internship</h3>
+<h3>Current Research (PhD)</h3>
 
-<h4>FPGA Benchmarking Framework for AI-Based EDA Tools</h4>
+<h4>TWIST Project: AI-based Digital Twin Technology</h4>
 <p>
-  <b>Institute:</b> Institut d’Électronique et des Technologies du numéRique (IETR)<br>
-  <b>Location:</b> Nantes, France<br>
-  <b>Duration:</b> February 2026 – July 2026<br>
-  <b>Role:</b> Research Intern
+  <b>Institute:</b> Université de Bretagne Occidentale (UBO)<br>
+  <b>Location:</b> Brest, France<br>
+  <b>Duration:</b> October 2025 – October 2028<br>
+  <b>Role:</b> Doctoral Researcher
 </p>
 
 <ul>
-  <li>Built an AI/ML-based FPGA benchmarking framework using XGBoost.</li>
-  <li>Created ML-ready Vivado datasets from congestion, routing, utilization, unrouted nets, and runtime metrics.</li>
-  <li>Developed an AI-assisted adversarial netlist generation flow for benchmarking AI-based EDA tools.</li>
-  <li>Designed a Python and NetworkX graph generator for FPGA-aware circuit generation.</li>
-  <li>Automated Verilog and XDC generation for AI-driven FPGA routing-stress testing.</li>
+  <li>Developing an AI-driven Digital Twin framework for the diagnosis and prognosis of tidal turbine failures.</li>
+  <li>Investigating multi-modal approaches to detect and predict biofouling and mechanical faults.</li>
+  <li>Applying Machine Learning, Deep Learning, and Signal Processing to improve the reliability of Marine Renewable Energy (MRE) systems.</li>
+  <li>Utilizing Computer Vision techniques for structural health monitoring and underwater image analysis.</li>
+</ul>
+
+<hr>
+
+<h3>Past Research Contributions</h3>
+
+<h4>Deepfake Detection (Master's Thesis)</h4>
+<ul>
+  <li>Developed a diagnostic system to identify deepfakes using lighting inconsistencies in retinal and facial movements.</li>
+  <li>Implemented advanced landmark detection algorithms for biometric verification.</li>
+  <li>Utilized FaceSwapGAN architectures to establish a baseline for generative adversarial detection.</li>
+</ul>
+
+<h4>Computer Vision-based Activity Recognition</h4>
+<ul>
+  <li>Researched and developed an automated system for activity recognition on construction sites.</li>
+  <li>Integrated CNN and LSTM architectures to capture both spatial features and temporal sequences in video data.</li>
+</ul>
+
+<h4>Industrial AI: Automated Billing & Steganography</h4>
+<ul>
+  <li><b>YOLOv5 Billing System:</b> Developed an AI-based automated stationery calculator using YOLOv5 for real-time item detection.</li>
+  <li><b>Multi-Image Steganography:</b> Implemented a deep learning framework for the enhancement of encoded covers, focusing on data security and visual fidelity.</li>
 </ul>
 
 <hr>
@@ -36,12 +57,11 @@ nav_order: 4
 <h3>Research Interests</h3>
 
 <ul>
-  <li>Artificial Intelligence for Electronic Design Automation</li>
-  <li>Machine Learning for FPGA routing congestion prediction</li>
-  <li>AI-assisted adversarial circuit and netlist generation</li>
-  <li>FPGA implementation analysis using Vivado golden-reference results</li>
-  <li>Embedded AI and Edge AI for low-power intelligent systems</li>
-  <li>Hardware/software co-design for connected and embedded objects</li>
+  <li><b>Digital Twins:</b> Real-time modeling for predictive maintenance and industrial monitoring.</li>
+  <li><b>Renewable Energy AI:</b> Optimization and fault diagnosis for tidal and offshore wind turbines.</li>
+  <li><b>Computer Vision:</b> Object detection (YOLO), biometric analysis, and underwater imaging.</li>
+  <li><b>Deep Learning:</b> CNNs, LSTMs, and GANs for complex signal and image processing.</li>
+  <li><b>Signal Processing:</b> Analyzing sensor data for industrial prognosis and health management (PHM).</li>
 </ul>
 
 <hr>
@@ -49,30 +69,16 @@ nav_order: 4
 <h3>Research Skills</h3>
 
 <ul>
-  <li><b>Machine Learning:</b> XGBoost, dataset preparation, model training, prediction, and evaluation</li>
-  <li><b>FPGA Design:</b> Vivado, Verilog, XDC constraints, routing congestion analysis, implementation metrics</li>
-  <li><b>Graph-Based Generation:</b> Python, NetworkX, DAG-based circuit generation, FPGA-aware constraints</li>
-  <li><b>Embedded Systems:</b> Embedded OS, edge computing, embedded software, low-power system design</li>
-  <li><b>Signal Processing:</b> Advanced signal processing, antenna processing, AI for digital communications</li>
+  <li><b>Artificial Intelligence:</b> Deep Learning (PyTorch/TensorFlow), Machine Learning (Scikit-learn), and RAG-based systems.</li>
+  <li><b>Computer Vision:</b> YOLOv8/v11, OpenCV, Image Segmentation, and Landmark Detection.</li>
+  <li><b>Technical Computing:</b> Python, MATLAB, Signal Processing, and Data Preprocessing.</li>
+  <li><b>Academic Writing:</b> LaTeX, Overleaf, BibTeX, and Research Methodology.</li>
 </ul>
-
-<hr>
-
-<h3>Academic Background Supporting Research</h3>
-
-<p>
-  I am pursuing a Master's in Embedded Technologies and Artificial Intelligence at Nantes Université, 
-  with coursework in AI fundamentals, AI for advanced digital communication, embedded systems architecture, 
-  embedded OS, edge computing, hardware/software architecture design, advanced signal processing, 
-  antenna processing, power consumption and reliability, embedded software, and connected objects.
-</p>
 
 <hr>
 
 <h3>Research Goal</h3>
 
 <p>
-  My goal is to develop intelligent FPGA benchmarking methods that use AI and machine learning 
-  to generate challenging circuit scenarios, evaluate AI-based EDA tools, and support more reliable 
-  FPGA and VLSI design workflows.
+  My goal is to bridge the gap between AI research and industrial application. By developing advanced Digital Twins, I aim to provide scalable, intelligent solutions for monitoring complex systems—specifically within the marine renewable energy sector—to ensure sustainable and reliable energy production.
 </p>
