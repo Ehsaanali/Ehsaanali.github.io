@@ -7,73 +7,81 @@ nav_order: 3
 ---
 
 <p>
-  This page highlights my academic and professional projects in AI, embedded systems, 
-  software development, ERP automation, and full-stack business solutions.
+  This page highlights my research and development projects in Artificial Intelligence, Computer Vision, and Full-Stack AI applications, ranging from my PhD work to my Master's thesis and beyond.
 </p>
 
 <hr>
 
-<h3>Professional Projects</h3>
+<h3>Research & Major Projects</h3>
 
-<h4>GiftTrees Full-Stack Business Management System</h4>
+<h4>CNN-LSTM-based Activity Detection System for Construction Sites</h4>
 <p>
-  <b>Type:</b> Professional Project<br>
-  <b>Role:</b> Developer<br>
-  <b>Duration:</b> February 2024 – July 2026<br>
-  <b>Website:</b> <a href="https://www.gifttrees.com/" target="_blank">gifttrees.com</a>
+  <b>Type:</b> Computer Vision Project<br>
+  <b>Tools:</b> Python, CNN, LSTM<br>
+  <b>Link:</b> <a href="https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning" target="_blank">View on GitHub</a>
 </p>
-
 <ul>
-  <li>Developed and configured the complete frontend and backend system for GiftTrees.</li>
-  <li>Built customer management, admin dashboards, reporting modules, and commission calculation systems.</li>
-  <li>Created custom control applications to support business operations and internal workflows.</li>
+  <li>Developed a computer vision-based activity recognition system specifically for construction environments.</li>
+  <li>Combined Convolutional Neural Networks (CNN) for spatial features with Long Short-Term Memory (LSTM) networks for temporal action sequence recognition.</li>
 </ul>
 
-<h4>Zoho ERP and CRM Automation Solutions</h4>
+<h4>Deepfake Detection (MS Thesis)</h4>
 <p>
-  <b>Type:</b> Professional Project<br>
-  <b>Role:</b> ERP / Zoho Developer<br>
-  <b>Tools:</b> Zoho Creator, Zoho CRM, Zoho Books, Zoho Desk, Zoho Analytics, Deluge, REST APIs
+  <b>Type:</b> Master's Thesis<br>
+  <b>Tools:</b> Python, FaceSwapGAN, Landmark Detection
 </p>
-
 <ul>
-  <li>Implemented AI-driven Zoho solutions, including predictive lead scoring, chatbots, smart automation, and business forecasting.</li>
-  <li>Developed custom Zoho applications and automated business workflows using Zoho Creator and Deluge.</li>
-  <li>Integrated Zoho applications with external platforms using REST APIs, webhooks, and custom functions.</li>
+  <li>Developed a robust deepfake detection system by analyzing lighting inconsistencies in retinal and facial movements.</li>
+  <li>Implemented precise facial landmark detection to identify biometric anomalies.</li>
+  <li>Utilized FaceSwapGAN architectures to evaluate and improve detection accuracy against generative models.</li>
+</ul>
+
+<h4>Smart YouTube Video Assistant</h4>
+<p>
+  <b>Type:</b> Generative AI / RAG<br>
+  <b>Tools:</b> Python, LLMs, NLP<br>
+  <b>Link:</b> <a href="https://github.com/Ehsaanali/Smart_Youtube_Video_Assistant-Video_summarization-" target="_blank">View on GitHub</a>
+</p>
+<ul>
+  <li>Developed an AI assistant that processes YouTube URLs and custom prompts to generate multi-modal responses (text, images, or video snippets).</li>
+  <li>Built a summarization pipeline to enhance user experience through contextual recommendations and related web sources.</li>
+</ul>
+
+<h4>Intelligent Health Monitoring System (FYP BS)</h4>
+<p>
+  <b>Type:</b> Bachelor's Final Year Project<br>
+  <b>Tools:</b> Django, Python, PostgreSQL, High Charts API<br>
+  <b>Link:</b> <a href="https://github.com/Ehsaanali/healthcare-dashboard-using-django-FYP" target="_blank">View on GitHub</a>
+</p>
+<ul>
+  <li>Implemented a comprehensive health monitoring dashboard featuring predictive forecasting.</li>
+  <li>Integrated a regression-based backend with a dynamic frontend using Bootstrap and JavaScript.</li>
+  <li>Handled full-stack responsibilities including database schema design and AI-driven health analytics.</li>
 </ul>
 
 <hr>
 
-<h3>Academic Projects</h3>
+<h3>Additional AI & Computer Vision Projects</h3>
 
-<h4>Deep Learning Based Framework for Colorectal Polyp Classification</h4>
-<p>
-  <b>Type:</b> Academic Project<br>
-  <b>Members:</b> 2<br>
-  <b>Role:</b> Team Lead<br>
-  <b>Date:</b> September 2021<br>
-  <b>Link:</b> 
-  <a href="https://drive.google.com/file/d/1-F-7T4SAwb4GGk8wjiXiyrHcfNiGvBWx/view?usp=sharing" target="_blank">Documentation</a>
-</p>
-
+<h4>Automated Stationery Calculator using YOLOv5</h4>
 <ul>
-  <li>Built a CNN-based web system for colorectal polyp classification.</li>
-  <li>Achieved 94% accuracy in classifying colonoscopy images.</li>
-  <li>Generated diagnostic reports for doctors and patients through a web-based platform.</li>
+  <li>Developed an AI-based automatic billing system for retail stationery using the YOLOv5 object detection algorithm.</li>
+  <li>Optimized image processing pipelines in Python for real-time item identification and price calculation.</li>
 </ul>
 
-<h4>Voice-Controlled Home Automation using Arduino</h4>
-<p>
-  <b>Type:</b> Academic Project<br>
-  <b>Members:</b> Individual Project<br>
-  <b>Role:</b> Developer<br>
-  <b>Date:</b> December 2020
-</p>
-
+<h4>Image Steganography using Deep Learning</h4>
 <ul>
-  <li>Developed an Arduino-based home automation system to control electronic devices using voice commands.</li>
-  <li>Used Bluetooth communication between a mobile application and Arduino board.</li>
-  <li>Implemented C++ logic for command processing and device control.</li>
+  <li>Implemented an advanced framework for the enhancement of encoded covers in multi-image steganography.</li>
+  <li>Leveraged deep learning frameworks to maximize data hiding capacity while maintaining visual imperceptibility.</li>
+</ul>
+
+<h4>Other Technical Projects</h4>
+<ul>
+  <li><b>Content-Based Image Retrieval:</b> Searching image databases based on visual features.</li>
+  <li><b>Font Identification:</b> Using ML to classify and identify typography from images.</li>
+  <li><b>Genetic Algorithm Schedule Generator:</b> Optimizing exam schedules using evolutionary computing.</li>
+  <li><b>Facial Emotion Recognition:</b> Real-time classification of human emotions.</li>
+  <li><b>Dementia Classification:</b> AI-driven diagnostic assistance for neurodegenerative conditions.</li>
 </ul>
 
 <hr>
@@ -81,8 +89,8 @@ nav_order: 3
 <h3>Technical Stack</h3>
 
 <ul>
-  <li><b>Languages:</b> Verilog, Python, PHP, SQL, C, C++, JavaScript, Deluge</li>
-  <li><b>Frontend:</b> HTML, CSS, JavaScript, Bootstrap, jQuery</li>
-  <li><b>Frameworks and Tools:</b> Vivado, TensorFlow, Jupyter Notebook, Google Colab, Overleaf</li>
-  <li><b>ERP and Automation:</b> Zoho Creator, Zoho CRM, Zoho Books, Zoho Desk, Zoho Analytics, SalesIQ</li>
+  <li><b>Languages:</b> Python, PHP, SQL, C, C++, JavaScript</li>
+  <li><b>AI Frameworks:</b> TensorFlow, PyTorch, YOLOv8/v5, Scikit-learn, NLTK, MediaPipe</li>
+  <li><b>Backend & Web:</b> Django, HTML5, CSS, Bootstrap, PostgreSQL</li>
+  <li><b>Tools:</b> Git, Jupyter Notebook, Google Colab, Overleaf, Tableau, OpenCV</li>
 </ul>
