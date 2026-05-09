@@ -1,111 +1,249 @@
-# AI/ML Engineer
-# email: ehsaanalinagyal@gmail.com
-## Introduction
-I am a Ph.D. Scholar at IRDL, CNRS UMR 6027, France, where I’m researching AI-driven Digital Twin systems for failure diagnosis and predictive maintenance in tidal energy turbines. My current work focuses on integrating machine learning, signal processing, and computer vision to improve energy efficiency and enable intelligent monitoring solutions in renewable marine systems.
+# Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
 
-I hold a Master’s degree in Artificial Intelligence (CGPA 3.7/4) from FAST NUCES Islamabad and a Bachelor’s in Software Engineering from SZABIST Islamabad. During my master’s, I explored areas such as deep learning, advanced machine learning, big data, AI mathematics, and image processing. My thesis focused on deepfake detection using lighting inconsistencies in retinal and facial movements, blending computer vision with multimedia forensics.
+A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
-Technically, I am a PIAIC Certified Artificial Intelligence Developer and a Microsoft Certified Python Expert, with hands-on expertise in TensorFlow, PyTorch, Keras, NumPy, Pandas, and Scikit-Learn.
+Built with these awesome libraries:
+* [Bourbon][bourbon]
+* [Neat][neat]
+* [Bitters][bitters]
+* [Refills][refills]
+* [Font Awesome][fontawesome]
+* [HighlightJS][highlightjs]
+* [Lightbox][lightbox]
 
-I am passionate about bridging research with real-world applications, especially in renewable energy, AI, and intelligent systems. Through innovation and collaboration, I aspire to contribute solutions that are sustainable, scalable, and human-centered.
+Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages](http://bencentra.github.io/centrarium/). I also use it for [my own website][bencentra].
 
-#### Technical Skills: Python, Machine learning, Deep Learning, Image processing, Deepfake detection, LLM, Generative AI
-#### Tool/libraries: SQL, Django, Tensorflow, PyTorch, OpenCV, C, C++, NLTK
-  
-CV [Link](https://github.com/Ehsaanali/Ehsaanali.github.io/blob/main/Ehsaan_ali_CV.pdf/) Linkedin [Link](https://www.linkedin.com/in/ehsaan-ali-nagyal1/) 
+Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme](http://rohanchandra.github.io/type-theme/).
 
-## Education
-					       		
-- Phd.,Artificial Intelligence and Electrical Engineering | Université de Bretagne Occidentale (Oct 2025 to Oct 2028)
-- M.S.,Artificial Intelligence | CGPA: 3.7/4 | FAST NUCES Islamabad(January 2022 to January 2024)	 			        		
-- B.S.,Software Engineering  | CGPA: 3.26/4 |Szabist Islamabad (May 2017 to May 2021)
+Cover image by Chris M. Morris ([flickr][cover]).
 
-## Work Experience
-- **Lecturer @FAST-NUCES, Islamabad Campus (_jan 2025 - june 2024_)**
-- Teaching Fundamentals of Software Engineering Course
-- **Lab Instructor @ FAST-NUCES, Islamabad Campus (_Aug 2023 - june 2024_)**
-- Conducted Lab such as Artificial Intelligence, Data Mining, Data structures and Fundamental of Computing
-- **Lab Instructor (Visiting), Lab SZABIST Islamabad**
-- **Machine learning and Data Science expert @ upwork**
-- **Research Assistant ‑ AIM Research Lab**
-- **Teaching Assistant ‑ Research Methodology**
+## Features
 
-## Internships
-- PHP Laravel Internship at Macro Soar
-- Data Science and Business Analytics at Sparks Foundation
+This theme comes with a number of features, including:
+* Easily customizable fonts and colors
+* Cover images for your homepage and blog posts
+* Pagination enabled by default
+* Archiving of posts by categories and tags
+* Syntax highlighting for code snippets
+* Disqus integration for post comments
+* Lightbox for viewing full-screen photos and albums
+* Google Analytics with custom page name tracking
+* Social media integration (Twitter, Facebook, LinkedIn, GitHub, and more)
 
-## Projects
-### CNN-LSTM-based activity detection system for construction sites
-- Developed a Computer vision-based Activity Recognition in Construction.
-- Used LSTM and CNNs
-- Project [Link](https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning)
-### Deepfake detection (MS thesis)
-- Developed a deep fake detection system using lighting inconsistencies in retinal
-and face movements.
-- Implemented landmark Detection.
-- used FacedSwapGAN for deep fake detection.
-### camera-image based automated stationery calculator using the YOLOv5 algorithm
-- Developed an AI-based Automatic Stationary billing system using YOLO.
-- Used Computer Vision algorithms along with Python programming language.
-### Image Steganography
-- Implemented the Enhancement of Encoded Cover in Multi-Image Steganography
-using Deep Learning
-- Used deep learning frameowrks.
-### Smart YouTube Video Assistant
-- Developed a Smart YouTube Video Assistant that allows users to input a YouTube
-video URL and a custom prompt, generating relevant responses in various formats
-(plain text, text with images, video snippets, or a video response).
-- Enhanced user experience by providing additional recommendations, including
-related web sources, images, and YouTube videos.
-- Project [Link](https://github.com/Ehsaanali/Smart_Youtube_Video_Assistant-Video_summarization-)
+## Installation
 
-### Intelligent Health Monitoring System (FYP BS)
-- Implemented an intelligent Health Monitor System as a final-year project.
-- Framework : Django python
-- Front End : HTML, CSS, Bootstrap, JavaScript, High Charts API
-- Back End : Python, Regression Algo
-- Database : PostgreSQL
-- Role : Front End Development, Backend Development, Forecasting Using Artificial
-Intelligence
-- Project [Link](https://github.com/Ehsaanali/healthcare-dashboard-using-django-FYP)
-### Other Projects
-- Content-Based Image Retrieval, Font Identification,  Exam schedule generator using genetic algorithm, Facial emotion recognition, Dementia Classification
+If you're just getting started with Jekyll, you can use this repository as a starting point for your own site. Just [download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
 
-## Online Certificate
-- PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/
-- Python Microsoft Certified programmer  [Check Certificate](https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY)/
-- Computer Vision and Image Processing Essentials [Check Certificate](https://www.credly.com/badges/677682ae-1b24-4d9a-ad53-71d2f2c35368/linked_in_profile)/
-- AI for Medical Diagnosis [Check Certificate](https://coursera.org/share/9c6a63f4ed1046df6c269631e6abff28)/
-- Generative AI for Everyone  [Check Certificate](https://www.coursera.org/account/accomplishments/certificate/TEAROE8E9ZWY/)/
-- Introduction to Large Language Models [Check Certificate](https://www.coursera.org/account/accomplishments/verify/BEYXLZZ5Y9H7/)/
-- AI For Everyone [Check Certificate](https://www.linkedin.com/in/ehsaan-ali-nagyal1/details/certifications/1732606014703/single-media-viewer/?profileId=ACoAAFUuKS8BhmwMWiXp9073ODZGa35w9iBopYI/)/
-  
-## Dataset Contribution
-- AI-Based Automatic Stationery Billing System [Link](https://www.kaggle.com/datasets/ehsaanali/stationerydataset)  
-- Construction Activity Recognition [Link](https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning/tree/main/Custom%20Dataset)  
+If your site already uses Jekyll, follow these steps:
 
-## Talks & Lectures
-- SCRUM Framework [Link](https://www.youtube.com/watch?v=9YsZnKz5sCw)
-- Artificial Intelligence Contribute to different Industries [Link](https://www.youtube.com/watch?v=SnQ-rqZcK2Q)
-- Eye Gesture Recognition Using Mediapipe [Link](https://www.youtube.com/watch?v=GdyYdTQ4iD0)
-- Real-Time Facial Expression Detection using Mediapipe and OpenCV [Link](https://www.youtube.com/watch?v=1RVmdhWR66E)
-- Deepfake Generation using Avatarify Desktop [Link](https://www.youtube.com/watch?v=hnF_IUWHqzY)
-- Exploring gaze tracking with the GazeTracking library [Link](https://www.youtube.com/watch?v=ojcCYVvzJtw)
-- Facial Emotion Recognition mediapipe, Tensorflow,OpenCV [Link](https://www.youtube.com/watch?v=asZcdBcN0Jk)
-- PoseTrack Real Time Body and Hand Motion Capture [Link](https://www.youtube.com/watch?v=GFc34CrfA-U)
-- Mask RCNN Object Segmentation [Link](https://www.youtube.com/watch?v=fO5K0uc5zww)
-- Using Linear regression Prediction of student Performance [Link](https://www.youtube.com/watch?v=leNAGbIIINI)
-- On IRIS dataset predict the optimum number of cluster [Link](https://www.youtube.com/watch?v=XPzARMZ5jJY)
-- VCS Version Control System Gitub [Link](https://www.youtube.com/watch?v=AXqlx3keGgY)
-- How to use and add reference in Overleaf latex [Link](https://www.youtube.com/watch?v=8obqbKqweV8)
+1. Replace the files in the `_includes`, `_layouts`, and `_sass` directories with those from this project.
+2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.
+3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.
 
+Don't forget to install Jekyll and other dependencies:
+```bash
+# cd into project directory
+cd centrarium
+# install Bundler if you don't have it already
+gem install bundler
+# install jekyll, jekyll-archives, jekyll-sitemap, and jekyll-paginate
+bundle install
+```
 
-## Awards
-- Award of IGNITE NGIRI grant to FYPs 2020-21
-- Gold Medalist MSAI Degree (Issued by National University of Computer & Emerging Sciences)
-- Fully Funded PhD Scholarship – October 2025, in association with Université de Bretagne Occidentale
+## Stackbit Deploy
 
-## Articles & Research Reports
-- Construction Activity Recognition-using deep learning [Link](https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1)
-- “Intelligent Health Monitoring System Using Deep Learning : Ehsaan Ali, Daim Attiq : Free Download, Borrow, and Streaming : Internet Archive,” Internet Archive, 2025. [Link](https://archive.org/details/intelligent-health-monitoring-system-using-deep-learning)  (accessed Feb. 16, 2025).
-- Critical Review on Paper Titled: “Depression detection from & social network data using machine learning techniques” [Link](https://medium.com/@ehsaanalinagyal/critical-review-on-paper-titled-depression-detection-from-social-network-data-using-machine-7ea5d8bc5c90)
+This theme is ready to import into Stackbit. This theme can be deployed to Netlify and you can connect any headless CMS including Forestry, NetlifyCMS, DatoCMS or Contentful. 
+
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/bencentra/centrarium)
+
+## Updating Header and Footer Links
+
+Links in the header and footer are auto-generated. Links will be made for all files marked `category: page`, that have a title, and have the custom `main_nav` front-matter variable set to `true`. You can modify the rules for link generation in `_layouts/nav_links.html`.
+
+## Updating Styles
+
+If you want change the CSS of the theme, you'll probably want to check out these files in the `_sass/` directory:
+
+* `base/_variables.scss`: Common values found throughout the project, including base font size, font families, colors, and more.
+* `base/_typography.scss`: Base typography values for the site (see `typography.html` for a demonstration)
+* `_layout.scss`: The primary styles for the layout and design of the theme.
+
+### Important Variables
+
+Here are the important variables from `base/_variables.scss` you can tweak to customize the theme to your liking:
+
+* `$base-font-family`: The font-family of the body text. Make sure to `@import` any new fonts!
+* `$heading-font-family`: The font-family of the headers. Make sure to `@import` any new fonts!
+* `$base-font-size`: The base font-size. Defaults to $em-base from Bourbon (`bourbon/settings/_px-to-em.scss`).
+* `$base-font-color`: The color for the body text.
+* `$action-color`: The color for links in the body text.
+* `$highlight-color`: The color for the footer and page headers (when no cover image provided).
+
+## Configuration
+
+All configuration options can be found in `_config.yml`.
+
+### Site Settings
+
+* __title:__ The title for your site. Displayed in the navigation menu, the `index.html` header, and the footer.
+* __subtitle:__ The subtitle of your site. Displayed in the `index.html` header.
+* __email:__ Your email address, displayed with the Contact info in the footer.
+* __name:__ Your name. _Currently unused._
+* __description:__ The description of your site. Used for search engine results and displayed in the footer.
+* __baseurl:__ The subpath of your site (e.g. /blog/).
+* __url:__ The base hostname and protocol for your site.
+* __cover:__ The relative path to your site's cover image.
+* __logo:__ The relative path to your site's logo. Used in the navigation menu instead of the title if provided.
+
+### Build Settings
+
+* __markdown:__ Markdown parsing engine. Default is kramdown.
+* __inter_post_navigation:__ Whether to render links to the next and previous post on each post.
+
+### Pagination settings
+
+See the documentation for [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration) for more details.
+
+### Archive Settings
+
+Although this theme comes with a combined, categorized archive (see `posts.html`), you can enable further archive creation thanks to [jekyll-archives][archives]. Support for category and tag archive pages is included, but you can also add your own archive pages for years, months, and days.
+
+To change archive settings, see the __jekyll-archives__ section of `_config.yml`:
+
+```yml
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+```
+
+To fully disable the archive, remove the __jekyll-archives__ section AND remove it from the __gems__ list.
+
+__NOTE:__ the Jekyll Archive gem is NOT included with GitHub pages! Disable the archive feature if you intend to deploy your site to GitHub pages. [Here is a guide](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) on how you can use the `jekyll archive` gem with GitHub pages. The general gist: compile the Jekyll site locally and then push that compiled site to GitHub.
+
+A sitemap is also generated using [jekyll-sitemap][sitemap].
+
+### Syntax Highlighting Settings
+
+Inside of a post, you can enable syntax highlighting with the `{% highlight <language> %}` Liquid tag. For example:
+
+```
+{% highlight javascript %}
+function demo(string, times) {
+  for (var i = 0; i < times; i++) {
+    console.log(string);
+  }
+}
+demo("hello, world!", 10);
+{% endhighlight %}
+```
+
+You can change the [HighlightJS theme][highlightjs_theme] in `_config.yml`:
+
+```yml
+highlightjs_theme: "monokai_sublime"
+```
+
+### Disqus Settings
+
+You can enable [Disqus][disqus] comments for you site by including one config option:
+
+* __disqus_shortname:__ Your Disqus username. If the property is set, Disqus comments will be included with your blog posts.
+
+If you want to disable Disqus for only a specific page, add __disqus_disabled: true__ to the page's front matter.
+
+### Google Analytics Settings
+
+You can enable basic [Google Analytics][ga] pageview tracking by including your site's tracking ID:
+
+* __ga_tracking_id__: The Tracking ID for your website. You can find it on your Google Analytics dashboard. If the property is set, Google Analytics will be added to the footer of each page.
+
+### Social Settings
+
+Your personal social network settings are combined with the social sharing options. In the __social__ section of `_config.yml`, include an entry for each network you want to include. For example:
+
+```yml
+social:
+  - name: Twitter                         # Name of the service
+    icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+    username: TheBenCentra                # (User) Name to display in the footer link
+    url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+    desc: Follow me on Twitter            # Description to display as link title, etc
+    share: true                           # Include in the "Share" section of posts
+```
+
+### Social Protocols
+
+Using the Open Graph Protocol or Twitter Card metadata, you can automatically set the images and text used when people share your site on Twitter or Facebook. These take a bit of setup, but are well worth it. The relevant fields are at the end of the `_config.yml` file.
+
+Also there is another protocol, the Open Source protocol, for saying where your site is hosted if the source is open. This helps develops more easily see your code if they are interested, or if they have issues. For more, see http://osprotocol.com.
+
+### Category Descriptions
+
+You can enhance the `posts.html` archive page with descriptions of your post categories. See the __descriptions__ section of `_config.yml`:
+
+```yml
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+```
+
+### Custom Page-Specific Javascript
+
+You can add page-specific javascript files by adding them to the top-level `/js` directory and including the filename in the __custom_js__ page's configuration file:
+
+```yml
+# Custom js (for individual pages)
+---
+layout: post
+title:  "Dummy Post"
+date:   2015-04-18 08:43:59
+author: Ben Centra
+categories: Dummy
+custom_js:
+- Popmotion
+- Vue
+---
+```
+
+The `/js/` directory would contain the corresponding files:
+
+```bash
+$ ls js/
+Popmotion.js Vue.js
+```
+
+## Contributing
+
+Want to help make this theme even better? Contributions from the community are welcome!
+
+Please follow these steps:
+
+1. Fork/clone this repository.
+2. Develop (and test!) your changes.
+3. Open a pull request on GitHub. A description and/or screenshot of changes would be appreciated!
+4. I ([Ben Centra](https://github.com/bencentra)) will review and merge the pull request.
+
+## License
+
+MIT. See [LICENSE.MD](https://github.com/bencentra/centrarium/blob/master/LICENSE.md).
+
+[bencentra]: http://bencentra.com
+[bourbon]: http://bourbon.io/
+[neat]: http://neat.bourbon.io/
+[bitters]: http://bitters.bourbon.io/
+[refills]: http://refills.bourbon.io/
+[fontawesome]: http://fortawesome.github.io/Font-Awesome/
+[highlightjs]: https://highlightjs.org/
+[highlightjs_theme]: https://highlightjs.org/static/demo/
+[lightbox]: http://lokeshdhakar.com/projects/lightbox2/
+[cover]: https://www.flickr.com/photos/79666107@N00/3796678503/in/photolist-6MuYfc-61Rtft-8XzPmY-a6Cozm-54eSMs-6oMJmk-aepZQq-9YkPHp-fiAEGE-dVP4Z5-oxPyJP-atKUFJ-9YHWA5-9YF2f2-9YF2gR-9YHVGN-9YHVvs-qZYYQ6-4JqP2i-a2peGy-9YHVUm-9YHVF7-9YHVCL-9YF3NK-cYteMo-aiPmb9-69dtAi-9YF21x-4aWpmn-7SLiUL-77pqVX-8vXbYv-4HGDSH-a2h5P1-8LsZrQ-9aj1ez-auPZ7q-9YHVMd-9YF2bi-9YF23D-8LpWpn-9an6KL-9YHVZL-dqZ3Cz-2GuvnX-9YHWUo-9YHVWd-p5Roh5-i1zTbv-6sYrUT
+[disqus]: https://disqus.com/
+[ga]: http://www.google.com/analytics/
+[archives]: https://github.com/jekyll/jekyll-archives
+[sitemap]: https://github.com/jekyll/jekyll-sitemap
