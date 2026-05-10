@@ -33,7 +33,10 @@ nav_order: 2
 
 <h3>Summary</h3>
 <p>
-  AI/ML Engineer and PhD candidate in Artificial Intelligence & Electrical Engineering at Université de Bretagne Occidentale. Experienced in computer vision, deepfake detection, and image analysis, with expertise in Python, TensorFlow, PyTorch, and YOLOv8. Currently working on the TWIST Project – AI-based Digital Twin for diagnosing and predicting tidal turbine failures.
+  I am a Ph.D. Scholar at IRDL, CNRS UMR 6027, France, researching AI-driven Digital Twin systems for failure diagnosis and predictive maintenance in tidal energy turbines. My work focuses on integrating machine learning, signal processing, and computer vision to enable intelligent monitoring solutions in renewable marine systems.
+</p>
+<p>
+  I am a PIAIC Certified Artificial Intelligence Developer and a Microsoft Certified Python Expert, with hands-on expertise in TensorFlow, PyTorch, Keras, and Scikit-Learn. I am passionate about bridging research with real-world applications that are sustainable, scalable, and human-centered.
 </p>
 
 <hr>
@@ -44,14 +47,13 @@ nav_order: 2
     (<em>10/2025-10/2028</em>) 
     <b>Doctor of Philosophy (Artificial Intelligence and Electrical Engineering)</b>, 
     <i>Université de Bretagne Occidentale, Brest, France</i>.
-    Focus: TWIST Project – AI-based Digital Twin Technology for the diagnosis and prognosis of tidal turbine failures and biofouling.
   </li>
 
   <li>
     (<em>01/2022-01/2024</em>) 
     <b>Master of Science in Artificial Intelligence</b>, 
     <i>FAST NUCES, Islamabad, Pakistan</i>.
-    GPA: 3.7/4.0 (Gold Medalist). Coursework: Deep Learning, Image Processing, and Machine Learning.
+    GPA: 3.7/4.0 (Gold Medalist).
   </li>
 
   <li>
@@ -68,77 +70,88 @@ nav_order: 2
 
 <h4>FAST NUCES</h4>
 <i>Islamabad, Pakistan</i><br>
-<b>Lab Instructor & Visiting Lecturer</b> (<em>09/2023-Present</em>)
+<b>Lecturer / Lab Instructor</b> (<em>08/2023-06/2024</em>)
 <ul>
-  <li>Conducted labs for Artificial Intelligence, Data Mining, and Data Structures.</li>
-  <li>Developed course materials including lab manuals, assignments, and exams.</li>
-  <li>Researcher at AIM Research Lab, supervising interns on AI applications.</li>
+  <li>Taught Fundamentals of Software Engineering and conducted labs for AI, Data Mining, and Data Structures.</li>
+  <li>Researcher at AIM Research Lab, focusing on industrial AI applications.</li>
 </ul>
 
 <h4>Freelance</h4>
-<i>Remote (Fiverr & Upwork)</i><br>
-<b>AI & Data Science Specialist</b> (<em>12/2019-02/2024</em>)
+<i>Remote (Upwork / Fiverr)</i><br>
+<b>Machine Learning & Data Science Expert</b> (<em>12/2019-02/2024</em>)
 <ul>
-  <li>Delivered high-quality data annotation and preprocessing services for ML pipelines.</li>
-  <li>Designed interactive dashboards using Tableau for data visualization.</li>
-  <li>Developed custom WordPress websites and executed various UI/UX design projects.</li>
+  <li>Delivered high-quality AI solutions, data annotation, and custom ML pipelines.</li>
+</ul>
+
+<hr>
+
+<h3>Technical Projects</h3>
+
+<h4>CNN-LSTM-based Activity Detection System</h4>
+<ul>
+  <li>Developed a computer vision system for activity recognition on construction sites using LSTM and CNNs.</li>
+  <li><a href="https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning" target="_blank">Project Link</a></li>
+</ul>
+
+<h4>Deepfake Detection (MS Thesis)</h4>
+<ul>
+  <li>Developed a detection system using lighting inconsistencies in retinal and face movements.</li>
+  <li>Implemented landmark detection and utilized FacedSwapGAN for forensics.</li>
+</ul>
+
+<h4>Smart YouTube Video Assistant</h4>
+<ul>
+  <li>Built a RAG-based assistant for video summarization and custom prompt querying.</li>
+  <li><a href="https://github.com/Ehsaanali/Smart_Youtube_Video_Assistant-Video_summarization-" target="_blank">Project Link</a></li>
+</ul>
+
+<h4>Intelligent Health Monitoring System (FYP BS)</h4>
+<ul>
+  <li>Full-stack health dashboard using Django, PostgreSQL, and regression algorithms for student performance forecasting.</li>
+  <li><a href="https://github.com/Ehsaanali/healthcare-dashboard-using-django-FYP" target="_blank">Project Link</a></li>
+</ul>
+
+<h4>Other Technical Projects</h4>
+<ul>
+  <li><b>Automated Stationery Calculator:</b> AI billing system using YOLOv5.</li>
+  <li><b>Image Steganography:</b> Multi-image encoding using Deep Learning frameworks.</li>
+  <li><b>Core Research:</b> Content-Based Image Retrieval, Font Identification, and Facial Emotion Recognition.</li>
 </ul>
 
 <hr>
 
 <h3>Technical Skills</h3>
 <ul>
-  <li><b>AI & Machine Learning:</b> TensorFlow, PyTorch, YOLOv8, Scikit-learn, NLTK, OpenCV, MediaPipe</li>
-  <li><b>Programming & Web:</b> Python, PHP, C++, SQL, HTML5, CSS, JavaScript, Django</li>
-  <li><b>Tools:</b> Git, Jupyter Notebook, Google Colab, Overleaf, Tableau</li>
+  <li><b>AI & Machine Learning:</b> TensorFlow, PyTorch, YOLOv8, Scikit-learn, LLMs, Generative AI</li>
+  <li><b>Computer Vision:</b> OpenCV, MediaPipe, Image Processing, Deepfake Detection</li>
+  <li><b>Programming:</b> Python, PHP, C, C++, SQL, Django, HTML5, CSS</li>
 </ul>
 
 <hr>
 
 <h3>Online Certifications</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/" target="_blank">PIAIC Certified Artificial Intelligence Developer</a></li>
-  <li><a href="https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY" target="_blank">Python Microsoft Certified Programmer</a></li>
-  <li><a href="https://www.credly.com/badges/677682ae-1b24-4d9a-ad53-71d2f2c35368/linked_in_profile" target="_blank">Computer Vision and Image Processing Essentials</a></li>
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/" target="_blank">PIAIC Certified AI Developer</a></li>
+  <li><a href="https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY" target="_blank">Microsoft Certified Python Programmer</a></li>
   <li><a href="https://coursera.org/share/9c6a63f4ed1046df6c269631e6abff28" target="_blank">AI for Medical Diagnosis</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/certificate/TEAROE8E9ZWY/" target="_blank">Generative AI for Everyone</a></li>
-  <li><a href="https://www.coursera.org/account/accomplishments/verify/BEYXLZZ5Y9H7/" target="_blank">Introduction to Large Language Models</a></li>
 </ul>
 
 <hr>
 
 <h3>Talks & Lectures</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=1RVmdhWR66E" target="_blank">Real-Time Facial Expression Detection using Mediapipe and OpenCV</a></li>
-  <li><a href="https://www.youtube.com/watch?v=GdyYdTQ4iD0" target="_blank">Eye Gesture Recognition Using Mediapipe</a></li>
-  <li><a href="https://www.youtube.com/watch?v=fO5K0uc5zww" target="_blank">Mask RCNN Object Segmentation</a></li>
+  <li><a href="https://www.youtube.com/watch?v=1RVmdhWR66E" target="_blank">Real-Time Facial Expression Detection</a></li>
   <li><a href="https://www.youtube.com/watch?v=AXqlx3keGgY" target="_blank">VCS Version Control System Github</a></li>
-  <li><a href="https://www.youtube.com/watch?v=8obqbKqweV8" target="_blank">How to use and add reference in Overleaf LaTeX</a></li>
-</ul>
-
-<hr>
-
-<h3>Dataset Contributions</h3>
-<ul>
-  <li><b>AI-Based Automatic Stationery Billing System:</b> Available on <a href="https://www.kaggle.com/datasets/ehsaanali/stationerydataset" target="_blank">Kaggle</a></li>
-  <li><b>Construction Activity Recognition:</b> Available on <a href="https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning/tree/main/Custom%20Dataset" target="_blank">GitHub</a></li>
-</ul>
-
-<hr>
-
-<h3>Articles & Research Reports</h3>
-<ul>
-  <li><a href="https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1" target="_blank">Construction Activity Recognition using Deep Learning</a></li>
-  <li><a href="https://archive.org/details/intelligent-health-monitoring-system-using-deep-learning" target="_blank">Intelligent Health Monitoring System Using Deep Learning</a> (Internet Archive, 2025)</li>
-  <li><a href="https://medium.com/@ehsaanalinagyal/critical-review-on-paper-titled-depression-detection-from-social-network-data-using-machine-7ea5d8bc5c90" target="_blank">Critical Review: Depression detection from social network data</a></li>
+  <li><a href="https://www.youtube.com/watch?v=8obqbKqweV8" target="_blank">Overleaf LaTeX Referencing Tutorial</a></li>
 </ul>
 
 <hr>
 
 <h3>Awards & Honors</h3>
 <ul>
-  <li><b>Gold Medalist:</b> MS AI Degree (National University of Computer & Emerging Sciences).</li>
-  <li><b>Fully Funded PhD Scholarship:</b> October 2025, Université de Bretagne Occidentale.</li>
+  <li><b>Gold Medalist:</b> MS AI Degree (FAST NUCES).</li>
+  <li><b>Fully Funded PhD Scholarship:</b> Université de Bretagne Occidentale.</li>
   <li><b>IGNITE NGIRI Grant:</b> Awarded for Final Year Projects 2020-21.</li>
 </ul>
 
