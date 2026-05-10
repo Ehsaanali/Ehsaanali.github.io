@@ -86,63 +86,74 @@ nav_order: 2
 
 <hr>
 
-<h3>Projects</h3>
-
-<h4>DeepFake Detection (MS Thesis)</h4>
-<ul>
-  <li>Developed a detection system using lighting inconsistencies in retinal and face movements.</li>
-  <li>Implemented landmark detection and utilized FaceSwapGAN architectures.</li>
-</ul>
-
-<h4>Smart YouTube Video Assistant</h4>
-<ul>
-  <li>Built a RAG-based assistant allowing users to query YouTube videos via custom prompts.</li>
-  <li>Generated multi-modal responses including text, images, and video snippets.</li>
-</ul>
-
-<hr>
-
 <h3>Technical Skills</h3>
-
-<h4>AI & Machine Learning</h4>
 <ul>
-  <li>TensorFlow, PyTorch, YOLOv8, Scikit-learn, NLTK, OpenCV, MediaPipe</li>
-</ul>
-
-<h4>Programming & Web</h4>
-<ul>
-  <li>Python, PHP, C++, SQL, HTML5, CSS, JavaScript, Django</li>
-</ul>
-
-<h4>Tools</h4>
-<ul>
-  <li>Git, Jupyter Notebook, Google Colab, Overleaf, Tableau</li>
+  <li><b>AI & Machine Learning:</b> TensorFlow, PyTorch, YOLOv8, Scikit-learn, NLTK, OpenCV, MediaPipe</li>
+  <li><b>Programming & Web:</b> Python, PHP, C++, SQL, HTML5, CSS, JavaScript, Django</li>
+  <li><b>Tools:</b> Git, Jupyter Notebook, Google Colab, Overleaf, Tableau</li>
 </ul>
 
 <hr>
 
-<h3>Languages</h3>
+<h3>Online Certifications</h3>
 <ul>
-  <li>English: Fluent</li>
-  <li>Urdu: Native</li>
-  <li>French: Basic</li>
+  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/" target="_blank">PIAIC Certified Artificial Intelligence Developer</a></li>
+  <li><a href="https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY" target="_blank">Python Microsoft Certified Programmer</a></li>
+  <li><a href="https://www.credly.com/badges/677682ae-1b24-4d9a-ad53-71d2f2c35368/linked_in_profile" target="_blank">Computer Vision and Image Processing Essentials</a></li>
+  <li><a href="https://coursera.org/share/9c6a63f4ed1046df6c269631e6abff28" target="_blank">AI for Medical Diagnosis</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/certificate/TEAROE8E9ZWY/" target="_blank">Generative AI for Everyone</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/BEYXLZZ5Y9H7/" target="_blank">Introduction to Large Language Models</a></li>
+</ul>
+
+<hr>
+
+<h3>Talks & Lectures</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=1RVmdhWR66E" target="_blank">Real-Time Facial Expression Detection using Mediapipe and OpenCV</a></li>
+  <li><a href="https://www.youtube.com/watch?v=GdyYdTQ4iD0" target="_blank">Eye Gesture Recognition Using Mediapipe</a></li>
+  <li><a href="https://www.youtube.com/watch?v=fO5K0uc5zww" target="_blank">Mask RCNN Object Segmentation</a></li>
+  <li><a href="https://www.youtube.com/watch?v=AXqlx3keGgY" target="_blank">VCS Version Control System Github</a></li>
+  <li><a href="https://www.youtube.com/watch?v=8obqbKqweV8" target="_blank">How to use and add reference in Overleaf LaTeX</a></li>
+</ul>
+
+<hr>
+
+<h3>Dataset Contributions</h3>
+<ul>
+  <li><b>AI-Based Automatic Stationery Billing System:</b> Available on <a href="https://www.kaggle.com/datasets/ehsaanali/stationerydataset" target="_blank">Kaggle</a></li>
+  <li><b>Construction Activity Recognition:</b> Available on <a href="https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning/tree/main/Custom%20Dataset" target="_blank">GitHub</a></li>
+</ul>
+
+<hr>
+
+<h3>Articles & Research Reports</h3>
+<ul>
+  <li><a href="https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1" target="_blank">Construction Activity Recognition using Deep Learning</a></li>
+  <li><a href="https://archive.org/details/intelligent-health-monitoring-system-using-deep-learning" target="_blank">Intelligent Health Monitoring System Using Deep Learning</a> (Internet Archive, 2025)</li>
+  <li><a href="https://medium.com/@ehsaanalinagyal/critical-review-on-paper-titled-depression-detection-from-social-network-data-using-machine-7ea5d8bc5c90" target="_blank">Critical Review: Depression detection from social network data</a></li>
+</ul>
+
+<hr>
+
+<h3>Awards & Honors</h3>
+<ul>
+  <li><b>Gold Medalist:</b> MS AI Degree (National University of Computer & Emerging Sciences).</li>
+  <li><b>Fully Funded PhD Scholarship:</b> October 2025, Université de Bretagne Occidentale.</li>
+  <li><b>IGNITE NGIRI Grant:</b> Awarded for Final Year Projects 2020-21.</li>
 </ul>
 
 <hr>
 
 <h3>References</h3>
-
-<h4>Dr. Mohamed Benbouzid</h4>
-<p>
-  Full Professor<br>
-  Department of Electrical Engineering<br>
-  University of Brest, France<br>
-  Email: <a href="mailto:Mohamed.Benbouzid@univ-brest.fr">Mohamed.Benbouzid@univ-brest.fr</a>
-</p>
-
-<h4>Dr. Youcef Belkhier</h4>
-<p>
-  Associate Professor<br>
-  University of Brest, France<br>
-  Email: <a href="mailto:youcef.belkhier@univ-brest.fr">youcef.belkhier@univ-brest.fr</a>
-</p>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div>
+    <h4>Dr. Mohamed Benbouzid</h4>
+    <p>Full Professor, University of Brest<br>
+    Email: <a href="mailto:Mohamed.Benbouzid@univ-brest.fr">Mohamed.Benbouzid@univ-brest.fr</a></p>
+  </div>
+  <div>
+    <h4>Dr. Youcef Belkhier</h4>
+    <p>Associate Professor, University of Brest<br>
+    Email: <a href="mailto:youcef.belkhier@univ-brest.fr">youcef.belkhier@univ-brest.fr</a></p>
+  </div>
+</div>
