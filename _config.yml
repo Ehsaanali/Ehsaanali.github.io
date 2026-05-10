@@ -9,14 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Rehmat Ali
-subtitle: "Embedded AI Engineer | Software Developer"
-email: rehmatali8090@gmail.com
-name: Rehmat Ali
+title: Ehsaan Ali
+subtitle: "AI/ML Engineer"
+email: ehsaan.ali@univ-brest.fr
+name: Ehsaan Ali
 description: >
-  Master's student in Embedded Technologies and Artificial Intelligence at Polytech Nantes, 
-  with experience in AI, embedded systems, software development, Zoho ERP solutions, 
-  automation, dashboards, and full-stack business systems.
+  I am a Ph.D. Scholar at IRDL, CNRS UMR 6027, France, where I’m researching AI-driven Digital Twin systems for failure diagnosis and predictive maintenance in tidal energy turbines
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
@@ -91,15 +89,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: Rehmatali-cv
-    url: https://github.com/Rehmatali-cv
+    username: Ehsaanali
+    url: https://github.com/Ehsaanali
     desc: View my GitHub profile
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Rehmat Ali
-    url: https://www.linkedin.com/in/rehmatali8090/
+    username: Ehsaan Ali
+    url: https://www.linkedin.com/in/ehsaan-ali-nagyal1/
     desc: Connect with me on LinkedIn
     share: true
 
