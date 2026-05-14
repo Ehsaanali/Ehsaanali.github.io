@@ -191,7 +191,24 @@ nav_order: 2
 </ul>
 
 <hr>
+<h2>Dataset Contribution</h2>
 
+<ul>
+  <li>
+    AI-Based Automatic Stationery Billing System
+    <a href="https://www.kaggle.com/datasets/ehsaanali/stationerydataset" target="_blank">
+      Link
+    </a>
+  </li>
+
+  <li>
+    Construction Activity Recognition
+    <a href="https://github.com/Ehsaanali/Construction-Activity-Recognition-using-deep-learning/tree/main/Custom%20Dataset" target="_blank">
+      Link
+    </a>
+  </li>
+</ul>
+<hr>
 <h3>Awards & Honors</h3>
 <ul>
   <li><b>Gold Medalist:</b> MS AI Degree (FAST NUCES).</li>
@@ -199,6 +216,33 @@ nav_order: 2
   <li><b>IGNITE NGIRI Grant:</b> Awarded for Final Year Projects 2020-21.</li>
 </ul>
 
+<hr>
+
+<h2>Articles &amp; Research Reports</h2>
+
+<ul>
+  <li>
+    Construction Activity Recognition using Deep Learning
+    <a href="https://medium.com/@ehsaanalinagyal/construction-activity-recognition-using-deep-learning-ed4e63aeb6a1" target="_blank">
+      Link
+    </a>
+  </li>
+
+  <li>
+    “Intelligent Health Monitoring System Using Deep Learning : Ehsaan Ali, Daim Attiq : Free Download, Borrow, and Streaming : Internet Archive,” Internet Archive, 2025.
+    <a href="https://archive.org/details/intelligent-health-monitoring-system-using-deep-learning" target="_blank">
+      Link
+    </a>
+    (accessed Feb. 16, 2025)
+  </li>
+
+  <li>
+    Critical Review on Paper Titled: “Depression Detection from Social Network Data Using Machine Learning Techniques”
+    <a href="https://medium.com/@ehsaanalinagyal/critical-review-on-paper-titled-depression-detection-from-social-network-data-using-machine-7ea5d8bc5c90" target="_blank">
+      Link
+    </a>
+  </li>
+</ul>
 <hr>
 
 <h3>References</h3>
