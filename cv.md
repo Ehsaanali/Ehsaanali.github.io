@@ -133,14 +133,14 @@ nav_order: 2
 <ul>
   <li>
     PIAIC Certified Artificial Intelligence Developer
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/" target="_blank">
+    <a href="https://drive.google.com/file/d/1SkjbF0jSsVgyqkbP2BGvpMdGMU0WpatZ/view?usp=sharing" target="_blank">
       Check Certificate
     </a>
   </li>
 
   <li>
     Python Microsoft Certified Programmer
-    <a href="https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY" target="_blank">
+    <a href="https://drive.google.com/file/d/1CbTMCWEfNiaeRTYC37pLN94-H5atilIs/view?usp=sharing" target="_blank">
       Check Certificate
     </a>
   </li>
