@@ -131,10 +131,54 @@ nav_order: 2
 
 <h3>Online Certifications</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/" target="_blank">PIAIC Certified AI Developer</a></li>
-  <li><a href="https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY" target="_blank">Microsoft Certified Python Programmer</a></li>
-  <li><a href="https://coursera.org/share/9c6a63f4ed1046df6c269631e6abff28" target="_blank">AI for Medical Diagnosis</a></li>
-  <li><a href="https://www.coursera.org/account/accomplishments/certificate/TEAROE8E9ZWY/" target="_blank">Generative AI for Everyone</a></li>
+  <li>
+    PIAIC Certified Artificial Intelligence Developer
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/" target="_blank">
+      Check Certificate
+    </a>
+  </li>
+
+  <li>
+    Python Microsoft Certified Programmer
+    <a href="https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY" target="_blank">
+      Check Certificate
+    </a>
+  </li>
+
+  <li>
+    Computer Vision and Image Processing Essentials
+    <a href="https://www.credly.com/badges/677682ae-1b24-4d9a-ad53-71d2f2c35368/linked_in_profile" target="_blank">
+      Check Certificate
+    </a>
+  </li>
+
+  <li>
+    AI for Medical Diagnosis
+    <a href="https://coursera.org/share/9c6a63f4ed1046df6c269631e6abff28" target="_blank">
+      Check Certificate
+    </a>
+  </li>
+
+  <li>
+    Generative AI for Everyone
+    <a href="https://www.coursera.org/account/accomplishments/certificate/TEAROE8E9ZWY/" target="_blank">
+      Check Certificate
+    </a>
+  </li>
+
+  <li>
+    Introduction to Large Language Models
+    <a href="https://www.coursera.org/account/accomplishments/verify/BEYXLZZ5Y9H7/" target="_blank">
+      Check Certificate
+    </a>
+  </li>
+
+  <li>
+    AI For Everyone
+    <a href="https://www.linkedin.com/in/ehsaan-ali-nagyal1/details/certifications/1732606014703/single-media-viewer/?profileId=ACoAAFUuKS8BhmwMWiXp9073ODZGa35w9iBopYI/" target="_blank">
+      Check Certificate
+    </a>
+  </li>
 </ul>
 
 <hr>
