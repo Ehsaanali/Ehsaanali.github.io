@@ -28,7 +28,23 @@ nav_order: 4
   <li>Applying Machine Learning, Deep Learning, and Signal Processing to improve the reliability of Marine Renewable Energy (MRE) systems.</li>
   <li>Utilizing Computer Vision techniques for structural health monitoring and underwater image analysis.</li>
 </ul>
+<h2>Submitted Publications</h2>
+<hr>
+<ul>
+    <li>
+        <strong>Review Paper:</strong>
+        “Digital Twin-Driven Multimodal Intelligence for Fault Diagnosis and Biofouling Monitoring in Tidal Stream Turbines: A Comprehensive Review”.
+        This work investigates physics-based models, signal processing, and emerging Large Language Model (LLM)-assisted diagnosis frameworks.
+        Submitted to the journal <em>Ocean Engineering</em>.
+    </li>
 
+    <li>
+        <strong>Conference Paper (IECON 2026):</strong>
+        “Transformer-based biofouling detection on tidal stream turbines under severe data scarcity”.
+        This study proposes the RF-DETR architecture for automated biofouling classification.
+        <em>(Under review)</em>
+    </li>
+</ul>
 <hr>
 
 <h3>Past Research Contributions</h3>
