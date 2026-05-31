@@ -38,12 +38,6 @@ nav_order: 4
         Submitted to the journal <em>Ocean Engineering</em>.
     </li>
 
-    <li>
-        <strong>Conference Paper (IECON 2026):</strong>
-        “Transformer-based biofouling detection on tidal stream turbines under severe data scarcity”.
-        This study proposes the RF-DETR architecture for automated biofouling classification.
-        <em>(Under review)</em>
-    </li>
 </ul>
 <hr>
 
