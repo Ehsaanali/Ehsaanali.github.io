@@ -41,6 +41,19 @@ nav_order: 4
 </ul>
 <hr>
 
+```html
+<h2>Conferences &amp; Research Activities</h2>
+<hr>
+<ul>
+    <li>
+        <strong>2026 INORE North American Symposium:</strong>
+        Participated in the symposium held in Hoboken, New Jersey, USA, where I presented my research through a poster presentation and seminar talk focused on AI-driven Digital Twin technologies for tidal stream turbines, with particular emphasis on biofouling detection, failure diagnosis, and prognosis.
+        The symposium also provided valuable opportunities for technical discussions, research exchange, international collaboration, and visits to leading marine renewable energy research laboratories and industry facilities.
+    </li>
+</ul>
+<hr>
+
+
 <h3>Past Research Contributions</h3>
 
 <h4>Deepfake Detection (Master's Thesis)</h4>
