@@ -41,7 +41,6 @@ nav_order: 4
 </ul>
 <hr>
 
-```html
 <h2>Conferences &amp; Research Activities</h2>
 <hr>
 <ul>
