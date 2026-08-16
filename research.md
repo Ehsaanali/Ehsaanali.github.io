@@ -43,6 +43,18 @@ nav_order: 4
 
 <h2>Conferences &amp; Research Activities</h2>
 <hr>
+
+<ul>
+    <li>
+        <strong>IECON 2026 – 52nd Annual IEEE Industrial Electronics Conference:</strong>
+        Accepted conference paper titled
+        <a href="https://ehsaanali.github.io/research/" target="_blank">
+            <em>“Transformer-based Biofouling Detection on Tidal Stream Turbines Under Severe Data Scarcity”</em>
+        </a>,
+        co-authored with Y. Belkhier, H. Rashid, and M. Benbouzid.
+        The paper presents a Transformer-based approach for biofouling detection on tidal stream turbines under severe data scarcity.
+    </li>
+</ul>
 <ul>
     <li>
         <strong>2026 INORE North American Symposium:</strong>
